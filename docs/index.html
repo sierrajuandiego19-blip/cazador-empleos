@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex">
+<title>Radar de Ofertas · Datos</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --papel:#F5F8FA; --tinta:#152430; --tinta-suave:#4A6070;
+    --linea:#D8E2E8; --tarjeta:#FFFFFF;
+    --verde:#0E7C66; --verde-tenue:#E2F2EE;
+    --ambar:#9A6B11; --ambar-tenue:#FBF0DA;
+    --azul:#2F5D8A; --azul-tenue:#E7EEF5;
+    --mono:'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,monospace;
+    --sans:'Archivo',system-ui,-apple-system,'Segoe UI',sans-serif;
+  }
+  *{box-sizing:border-box;margin:0}
+  body{background:var(--papel);color:var(--tinta);font-family:var(--sans);line-height:1.5}
+  a{color:var(--azul)}
+  .contenedor{max-width:960px;margin:0 auto;padding:0 20px 80px}
+
+  header{border-bottom:2px solid var(--tinta);padding:34px 0 22px;margin-bottom:14px}
+  .cinta{font-family:var(--mono);font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--verde);margin-bottom:8px}
+  h1{font-size:clamp(26px,5vw,40px);font-weight:800;letter-spacing:-.02em;line-height:1.1}
+  h1 .fino{color:var(--tinta-suave);font-weight:500}
+  .metricas{display:flex;flex-wrap:wrap;gap:26px;margin-top:18px;font-family:var(--mono);font-size:13px}
+  .metricas b{font-size:22px;display:block;font-weight:500;color:var(--tinta)}
+  .metricas span{color:var(--tinta-suave)}
+
+  .aviso-seguridad{background:var(--verde-tenue);border:1px solid var(--verde);border-radius:8px;
+    padding:12px 16px;font-size:13.5px;margin:14px 0 22px;color:#0A5648}
+  .aviso-seguridad b{color:var(--verde)}
+
+  .filtros{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-bottom:22px;
+    position:sticky;top:0;background:var(--papel);padding:12px 0;z-index:5;border-bottom:1px solid var(--linea)}
+  .filtros input[type=search],.filtros select{font-family:var(--mono);font-size:13px;padding:8px 12px;
+    border:1px solid var(--linea);border-radius:6px;background:var(--tarjeta);color:var(--tinta)}
+  .filtros input[type=search]{flex:1;min-width:180px}
+  .filtros label{font-family:var(--mono);font-size:12px;display:flex;align-items:center;gap:6px;color:var(--tinta-suave);cursor:pointer}
+
+  .tarjeta{background:var(--tarjeta);border:1px solid var(--linea);border-radius:10px;
+    padding:18px 20px;margin-bottom:14px;transition:border-color .15s}
+  .tarjeta:hover{border-color:var(--azul)}
+  .tarjeta.nueva{border-left:4px solid var(--verde)}
+  .fila-superior{display:flex;justify-content:space-between;gap:14px;align-items:flex-start;flex-wrap:wrap}
+  .titulo-oferta{font-size:18px;font-weight:700;letter-spacing:-.01em}
+  .titulo-oferta a{color:var(--tinta);text-decoration:none}
+  .titulo-oferta a:hover{text-decoration:underline}
+  .empresa{color:var(--tinta-suave);font-size:14.5px;margin-top:2px}
+
+  .confianza{font-family:var(--mono);font-size:11.5px;text-align:right;min-width:120px}
+  .confianza .barra{height:6px;border-radius:3px;background:var(--linea);margin-top:5px;overflow:hidden}
+  .confianza .relleno{height:100%;background:var(--verde)}
+  .confianza.media .relleno{background:var(--ambar)}
+  .confianza .etiqueta{color:var(--verde)}
+  .confianza.media .etiqueta{color:var(--ambar)}
+
+  .chips{display:flex;flex-wrap:wrap;gap:7px;margin:12px 0 4px}
+  .chip{font-family:var(--mono);font-size:11.5px;padding:3px 9px;border-radius:5px;
+    background:var(--azul-tenue);color:var(--azul);border:1px solid transparent}
+  .chip.nueva{background:var(--verde);color:#fff}
+  .chip.advertencia{background:var(--ambar-tenue);color:var(--ambar);border-color:var(--ambar)}
+  .chip.salario{background:var(--verde-tenue);color:var(--verde)}
+
+  .resumen{font-size:13.5px;color:var(--tinta-suave);margin-top:8px}
+  .acciones{margin-top:14px;display:flex;gap:14px;align-items:center;flex-wrap:wrap}
+  .boton{display:inline-block;background:var(--tinta);color:#fff;text-decoration:none;
+    font-family:var(--mono);font-size:12.5px;padding:9px 16px;border-radius:6px}
+  .boton:hover{background:var(--azul)}
+  .fecha{font-family:var(--mono);font-size:11.5px;color:var(--tinta-suave)}
+
+  .vacio{text-align:center;padding:60px 0;color:var(--tinta-suave);font-family:var(--mono);font-size:14px}
+  footer{margin-top:44px;padding-top:18px;border-top:1px solid var(--linea);
+    font-size:12.5px;color:var(--tinta-suave)}
+  footer ul{margin:8px 0 0 18px}
+  @media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<div class="contenedor">
+  <header>
+    <div class="cinta">Radar personal · Actualización automática cada 4 h</div>
+    <h1>Ofertas de datos <span class="fino">· remotas · junior y middle</span></h1>
+    <div class="metricas">
+      <div><b id="m-total">0</b><span>activas</span></div>
+      <div><b id="m-nuevas">0</b><span>nuevas (24 h)</span></div>
+      <div><b id="m-fuentes">0</b><span>fuentes</span></div>
+      <div><b id="m-fecha">—</b><span>última actualización</span></div>
+    </div>
+  </header>
+
+  <div class="aviso-seguridad">
+    <b>Reglas de oro:</b> ninguna empresa legítima cobra por contratarte ni pide tu cédula,
+    cuenta bancaria o pagos «de inscripción». Postula siempre desde el <b>enlace oficial</b> de cada
+    tarjeta, nunca por WhatsApp o Telegram de desconocidos.
+  </div>
+
+  <div class="filtros">
+    <input type="search" id="buscar" placeholder="Buscar título, empresa, tecnología…">
+    <select id="f-fuente"><option value="">Todas las fuentes</option></select>
+    <select id="f-idioma">
+      <option value="">Idioma: todos</option>
+      <option value="es">Español</option>
+      <option value="en">Inglés</option>
+    </select>
+    <select id="f-nivel">
+      <option value="">Nivel: todos</option>
+      <option value="Junior">Junior</option>
+      <option value="Middle / Semi Senior">Middle / Semi Senior</option>
+      <option value="No especificado">Sin especificar</option>
+    </select>
+    <label><input type="checkbox" id="f-nuevas"> Solo nuevas</label>
+    <label><input type="checkbox" id="f-sin-oral" checked> Ocultar inglés hablado</label>
+  </div>
+
+  <div id="lista"></div>
+  <div id="vacio" class="vacio" hidden>Sin resultados con estos filtros.</div>
+
+  <footer>
+    Datos obtenidos de las APIs públicas oficiales de Get on Board, Remotive, Remote OK y Jobicy,
+    con enlace y atribución a la oferta original en cada fuente. Este panel es de uso personal,
+    no almacena datos tuyos y no requiere registro.
+    <ul>
+      <li>Índice de confianza ≥ 85: sin señales de riesgo detectadas.</li>
+      <li>Índice 60–84: revisa las advertencias de la tarjeta antes de postular.</li>
+      <li>Menos de 60: la oferta se descarta automáticamente y no se muestra.</li>
+    </ul>
+  </footer>
+</div>
+
+<script>
+const OFERTAS = [];
+const META = {"actualizado": null, "ahora": 1783377696859, "fuentes_activas": 4};
+
+const fmtFecha = t => {
+  if(!t) return "";
+  const d = new Date(t);
+  return isNaN(d) ? "" : d.toLocaleDateString("es-CO",{day:"numeric",month:"short"});
+};
+const esNueva = o => META.ahora - new Date(o.detectada).getTime() < 24*3600*1000;
+const esc = s => (s||"").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+function pintar(){
+  const q = document.getElementById("buscar").value.toLowerCase();
+  const fuente = document.getElementById("f-fuente").value;
+  const idioma = document.getElementById("f-idioma").value;
+  const nivel = document.getElementById("f-nivel").value;
+  const soloNuevas = document.getElementById("f-nuevas").checked;
+  const sinOral = document.getElementById("f-sin-oral").checked;
+
+  const visibles = OFERTAS.filter(o =>
+    (!q || (o.titulo+" "+o.empresa+" "+o.resumen).toLowerCase().includes(q)) &&
+    (!fuente || o.fuente === fuente) &&
+    (!idioma || o.idioma === idioma) &&
+    (!nivel || o.seniority === nivel) &&
+    (!soloNuevas || esNueva(o)) &&
+    (!sinOral || !o.aviso_ingles_hablado)
+  ).sort((a,b)=> new Date(b.detectada)-new Date(a.detectada) || b.confianza-a.confianza);
+
+  document.getElementById("lista").innerHTML = visibles.map(o => {
+    const nueva = esNueva(o);
+    const nivelConf = o.confianza >= 85 ? "" : "media";
+    const etiquetaConf = o.confianza >= 85 ? "verificada" : "revisar";
+    const chips = [
+      nueva ? '<span class="chip nueva">NUEVA</span>' : "",
+      `<span class="chip">${esc(o.fuente_nombre)}</span>`,
+      `<span class="chip">${esc(o.ubicacion)}</span>`,
+      `<span class="chip">${o.idioma === "es" ? "Español" : "Inglés"}</span>`,
+      o.seniority !== "No especificado" ? `<span class="chip">${esc(o.seniority)}</span>` : "",
+      o.salario ? `<span class="chip salario">${esc(o.salario)}</span>` : "",
+      o.aviso_ingles_hablado ? '<span class="chip advertencia">Posible inglés hablado</span>' : "",
+      o.aviso_geografico ? `<span class="chip advertencia">${esc(o.aviso_geografico)}</span>` : "",
+      ...o.banderas.map(b => `<span class="chip advertencia">⚠ ${esc(b)}</span>`)
+    ].join("");
+    return `<article class="tarjeta ${nueva?"nueva":""}">
+      <div class="fila-superior">
+        <div>
+          <div class="titulo-oferta"><a href="${esc(o.url)}" target="_blank" rel="noopener noreferrer">${esc(o.titulo)}</a></div>
+          <div class="empresa">${esc(o.empresa)}</div>
+        </div>
+        <div class="confianza ${nivelConf}">
+          <span class="etiqueta">confianza ${o.confianza}/100 · ${etiquetaConf}</span>
+          <div class="barra"><div class="relleno" style="width:${o.confianza}%"></div></div>
+        </div>
+      </div>
+      <div class="chips">${chips}</div>
+      ${o.resumen ? `<div class="resumen">${esc(o.resumen)}…</div>` : ""}
+      <div class="acciones">
+        <a class="boton" href="${esc(o.url)}" target="_blank" rel="noopener noreferrer">Postular en el sitio oficial →</a>
+        <span class="fecha">${o.fecha_publicada ? "publicada "+fmtFecha(o.fecha_publicada)+" · " : ""}detectada ${fmtFecha(o.detectada)}</span>
+      </div>
+    </article>`;
+  }).join("");
+  document.getElementById("vacio").hidden = visibles.length > 0;
+}
+
+function iniciar(){
+  document.getElementById("m-total").textContent = OFERTAS.length;
+  document.getElementById("m-nuevas").textContent = OFERTAS.filter(esNueva).length;
+  const fuentes = [...new Set(OFERTAS.map(o=>o.fuente))];
+  document.getElementById("m-fuentes").textContent = META.fuentes_activas;
+  document.getElementById("m-fecha").textContent = META.actualizado
+    ? new Date(META.actualizado).toLocaleString("es-CO",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"}) : "—";
+  const sel = document.getElementById("f-fuente");
+  fuentes.forEach(f => {
+    const o = OFERTAS.find(x=>x.fuente===f);
+    sel.insertAdjacentHTML("beforeend", `<option value="${f}">${esc(o.fuente_nombre)}</option>`);
+  });
+  ["buscar","f-fuente","f-idioma","f-nivel","f-nuevas","f-sin-oral"].forEach(id =>
+    document.getElementById(id).addEventListener("input", pintar));
+  pintar();
+}
+iniciar();
+</script>
+</body>
+</html>
