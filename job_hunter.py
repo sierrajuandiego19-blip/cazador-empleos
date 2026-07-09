@@ -55,6 +55,9 @@ TIMEOUT = 25
 HORAS_PARA_EXPIRAR = 72
 # Una oferta se marca "NUEVA" durante sus primeras 24 h en el sistema.
 HORAS_COMO_NUEVA = 24
+# Solo se aceptan y se muestran ofertas publicadas en los últimos N días.
+# Si la fuente no informa fecha de publicación, se usa la fecha de detección.
+DIAS_MAX_ANTIGUEDAD = 7
 
 # Frecuencia mínima entre consultas a cada fuente (en horas).
 # Remotive pide explícitamente máximo ~4 consultas al día -> cada 6 h.
@@ -399,6 +402,19 @@ CONECTORES = {
 # FILTROS Y EVALUACIÓN
 # ---------------------------------------------------------------------------
 
+def es_reciente(fecha_publicada: str | None, detectada: str | None = None) -> bool:
+    """True si la oferta tiene menos de DIAS_MAX_ANTIGUEDAD días.
+    Prioriza la fecha de publicación; sin ella usa la de detección; sin
+    ninguna fecha (o con formato ilegible) no se descarta."""
+    referencia = fecha_publicada or detectada
+    if not referencia:
+        return True
+    try:
+        return ahora_utc() - parse_iso(referencia) <= timedelta(days=DIAS_MAX_ANTIGUEDAD)
+    except ValueError:
+        return True
+
+
 def es_rol_objetivo(oferta: dict) -> bool:
     texto = normalizar(oferta["titulo"] + " " + oferta["descripcion"][:600])
     titulo = normalizar(oferta["titulo"])
@@ -479,6 +495,8 @@ def procesar_crudas(crudas: list[dict]) -> tuple[list[dict], list[dict]]:
     aceptadas, sospechosas = [], []
     for cruda in crudas:
         if not cruda.get("titulo") or not cruda.get("url"):
+            continue
+        if not es_reciente(cruda.get("fecha_publicada")):
             continue
         if not es_rol_objetivo(cruda):
             continue
@@ -885,6 +903,10 @@ def generar_panel() -> None:
     almacen = cargar_json(ARCHIVO_OFERTAS, {"ofertas": {}, "actualizado": None})
     ofertas = sorted(almacen.get("ofertas", {}).values(),
                      key=lambda o: o.get("detectada", ""), reverse=True)
+    # El panel solo muestra ofertas de los últimos DIAS_MAX_ANTIGUEDAD días,
+    # incluidas las almacenadas antes de que existiera este filtro.
+    ofertas = [o for o in ofertas
+               if es_reciente(o.get("fecha_publicada"), o.get("detectada"))]
     meta = {
         "actualizado": almacen.get("actualizado"),
         "ahora": int(ahora_utc().timestamp() * 1000),
