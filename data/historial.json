@@ -1,3 +1,25 @@
 {
-  "archivadas": []
+  "archivadas": [
+    {
+      "id": "2a7d33da01bb345a",
+      "fuente": "remoteok",
+      "fuente_nombre": "Remote OK",
+      "titulo": "Asset Management Analyst Multifamily Real Estate",
+      "empresa": "Bluecore Residential",
+      "url": "https://remoteOK.com/remote-jobs/remote-asset-management-analyst-multifamily-real-estate-bluecore-residential-1134402",
+      "ubicacion": "New York, New York, United States",
+      "salario": null,
+      "fecha_publicada": "2026-07-02T16:00:55Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «New York, New York, United States»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "100% REMOTE Bluecore Residential is a privately owned real estate investment company headquartered in Newport Beach, CA. Bluecore principals have owned and operated a multifamily portfolio totaling more than 16,000 units located in high-growth secondary markets. Bluecore's competitive advantage stems from its long-stan",
+      "detectada": "2026-07-07T19:36:58Z",
+      "ultima_vez_vista": "2026-07-08T14:07:45Z",
+      "archivada": "2026-07-11T16:58:42Z"
+    }
+  ]
 }
