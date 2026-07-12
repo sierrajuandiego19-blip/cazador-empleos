@@ -1,21 +1,21 @@
 {
   "getonbrd": {
-    "ultima_consulta": "2026-07-11T20:47:34Z",
-    "obtenidas": 58,
-    "error": null
+    "ultima_consulta": "2026-07-12T02:47:08Z",
+    "obtenidas": 0,
+    "error": "503 Server Error: Service Unavailable for url: https://www.getonbrd.com/api/v0/categories/data-science-analytics/jobs?per_page=100&page=1"
   },
   "remotive": {
-    "ultima_consulta": "2026-07-11T16:58:38Z",
+    "ultima_consulta": "2026-07-12T02:47:08Z",
     "obtenidas": 41,
     "error": null
   },
   "remoteok": {
-    "ultima_consulta": "2026-07-11T20:47:34Z",
+    "ultima_consulta": "2026-07-12T02:47:08Z",
     "obtenidas": 100,
     "error": null
   },
   "jobicy": {
-    "ultima_consulta": "2026-07-11T20:47:34Z",
+    "ultima_consulta": "2026-07-12T02:47:08Z",
     "obtenidas": 50,
     "error": null
   }
