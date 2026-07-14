@@ -188,6 +188,48 @@
       "detectada": "2026-07-07T19:36:58Z",
       "ultima_vez_vista": "2026-07-09T15:10:32Z",
       "archivada": "2026-07-12T16:58:36Z"
+    },
+    {
+      "id": "b63dd7d750398bbc",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Machine Learning Engineer",
+      "empresa": "Twilio",
+      "url": "https://jobicy.com/jobs/142522-machine-learning-engineer",
+      "ubicacion": "USA",
+      "salario": null,
+      "fecha_publicada": "2026-06-27T10:36:42+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences.Our dedication to remote-first work, and strong culture of c",
+      "detectada": "2026-07-07T19:36:58Z",
+      "ultima_vez_vista": "2026-07-11T06:12:54Z",
+      "archivada": "2026-07-14T09:58:26Z"
+    },
+    {
+      "id": "b16e2418446570d9",
+      "fuente": "remoteok",
+      "fuente_nombre": "Remote OK",
+      "titulo": "Associate Data Analyst",
+      "empresa": "Arabian Private Holdings",
+      "url": "https://remoteOK.com/remote-jobs/remote-associate-data-analyst-arabian-private-holdings-1134566",
+      "ubicacion": "Manchester, Manchester, England, United Kingdom",
+      "salario": null,
+      "fecha_publicada": "2026-07-07T10:04:48Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Manchester, Manchester, England, United Kingdom»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "About the role The Associate Data Analyst role exists to translate complex datasets into clear, defensible logic for our firm and its clients. You will provide the quantitative foundation for our advice, specifically supporting an ongoing mandate with a Manchester-based infrastructure organization to help them structur",
+      "detectada": "2026-07-08T10:18:43Z",
+      "ultima_vez_vista": "2026-07-11T06:12:54Z",
+      "archivada": "2026-07-14T09:58:26Z"
     }
   ]
 }
