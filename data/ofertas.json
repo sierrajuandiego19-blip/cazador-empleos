@@ -1,25 +1,5 @@
 {
   "ofertas": {
-    "223d596896f95188": {
-      "id": "223d596896f95188",
-      "fuente": "getonbrd",
-      "fuente_nombre": "Get on Board",
-      "titulo": "Data Analyst – Chile",
-      "empresa": "16082",
-      "url": "https://www.getonbrd.com/jobs/data-analyst-chile-cumplo-santiago",
-      "ubicacion": "Remoto",
-      "salario": null,
-      "fecha_publicada": "2026-07-06T18:57:59Z",
-      "seniority": "Middle / Semi Senior",
-      "idioma": "en",
-      "aviso_ingles_hablado": false,
-      "aviso_geografico": null,
-      "confianza": 100,
-      "banderas": [],
-      "resumen": "¿Qué necesitas? 🕵️♀️ Título profesional en Ingeniería (Civil, Informática, Estadística, Industrial) o carreras afines. 2 a 4 años de experiencia laboral en roles de datos (Data Analyst, Data Engineer, Analytics o similares). Experiencia demostrable procesando y analizando grandes volúmenes de datos, así como generando ",
-      "detectada": "2026-07-07T19:36:58Z",
-      "ultima_vez_vista": "2026-07-13T17:55:07Z"
-    },
     "e1de32670493b951": {
       "id": "e1de32670493b951",
       "fuente": "jobicy",
@@ -38,7 +18,7 @@
       "banderas": [],
       "resumen": "We are looking for a product-minded Applied Data Scientist or Machine Learning Engineer to help build, ship, and scale ML-powered products that directly improve how our customers make decisions, operate their businesses, and serve their own users.This is not a research-only role, nor is it a service-oriented internal a",
       "detectada": "2026-07-07T19:36:58Z",
-      "ultima_vez_vista": "2026-07-16T13:50:24Z"
+      "ultima_vez_vista": "2026-07-16T20:58:46Z"
     },
     "6686a540fd93dd5e": {
       "id": "6686a540fd93dd5e",
@@ -58,7 +38,7 @@
       "banderas": [],
       "resumen": "Skylum allows millions of photographers to make incredible images. Our award-winning software automates photo editing with the power of AI yet leaves all the creative control in the hands of the artist.Join us on our mission to make photo editing enjoyable, easy, and accessible to anyone. You’ll be developing products ",
       "detectada": "2026-07-09T15:10:32Z",
-      "ultima_vez_vista": "2026-07-16T13:50:24Z"
+      "ultima_vez_vista": "2026-07-16T20:58:46Z"
     },
     "454d1e47287164c0": {
       "id": "454d1e47287164c0",
@@ -118,7 +98,7 @@
       "banderas": [],
       "resumen": "Dominio de SQL y Excel avanzado Experiencia en factoring, banca o retail financiero Conocimientos en análisis de datos y generación de indicadores de gestión Competencia en definición y seguimiento de KPIs e indicadores financieros Capacidad para traducir necesidades de negocio en requerimientos de reportabilidad Exper",
       "detectada": "2026-07-13T02:48:46Z",
-      "ultima_vez_vista": "2026-07-16T10:09:04Z"
+      "ultima_vez_vista": "2026-07-16T20:58:46Z"
     },
     "20dff23001970df9": {
       "id": "20dff23001970df9",
@@ -198,8 +178,28 @@
       "banderas": [],
       "resumen": "Job Description Job Title: Data Analyst Excel Job Type: Contract Location: Remote Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required â ",
       "detectada": "2026-07-14T09:58:26Z",
-      "ultima_vez_vista": "2026-07-16T13:50:24Z"
+      "ultima_vez_vista": "2026-07-16T20:58:46Z"
+    },
+    "1cdae02d7e9e6ba7": {
+      "id": "1cdae02d7e9e6ba7",
+      "fuente": "remoteok",
+      "fuente_nombre": "Remote OK",
+      "titulo": "Business Intelligence Developer",
+      "empresa": "Base.com",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-intelligence-developer-base-com-1134926",
+      "ubicacion": "GdaÅsk, GdaÅsk, Woj. Pomorskie, Polska",
+      "salario": null,
+      "fecha_publicada": "2026-07-13T14:45:36Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «GdaÅsk, GdaÅsk, Woj. Pomorskie, Polska»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "At Base, our mission is to empower entrepreneurs to succeed in the global e-commerce landscape. We provide a technology platform that revolutionizes their online sales operations. Our international team, spanning from Europe to the Americas, delivers a comprehensive, all-in-one solution to thousands of merchants worldw",
+      "detectada": "2026-07-16T20:58:46Z",
+      "ultima_vez_vista": "2026-07-16T20:58:46Z"
     }
   },
-  "actualizado": "2026-07-16T17:15:53Z"
+  "actualizado": "2026-07-16T20:58:46Z"
 }
