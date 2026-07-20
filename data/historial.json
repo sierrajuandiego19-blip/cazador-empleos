@@ -356,6 +356,48 @@
       "detectada": "2026-07-14T06:10:47Z",
       "ultima_vez_vista": "2026-07-16T13:50:24Z",
       "archivada": "2026-07-19T16:58:05Z"
+    },
+    {
+      "id": "91ca91a83ecd5f72",
+      "fuente": "remoteok",
+      "fuente_nombre": "Remote OK",
+      "titulo": "Data Analyst Excel",
+      "empresa": "JobsInMass.com",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-excel-jobsinmass-com-1134777",
+      "ubicacion": "Boston, ",
+      "salario": null,
+      "fecha_publicada": "2026-07-13T08:40:47Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Boston, »",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Job Description Job Title: Data Analyst Excel Job Type: Contract Location: Remote Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required â ",
+      "detectada": "2026-07-14T09:58:26Z",
+      "ultima_vez_vista": "2026-07-16T20:58:46Z",
+      "archivada": "2026-07-20T02:57:26Z"
+    },
+    {
+      "id": "1cdae02d7e9e6ba7",
+      "fuente": "remoteok",
+      "fuente_nombre": "Remote OK",
+      "titulo": "Business Intelligence Developer",
+      "empresa": "Base.com",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-intelligence-developer-base-com-1134926",
+      "ubicacion": "GdaÅsk, GdaÅsk, Woj. Pomorskie, Polska",
+      "salario": null,
+      "fecha_publicada": "2026-07-13T14:45:36Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «GdaÅsk, GdaÅsk, Woj. Pomorskie, Polska»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "At Base, our mission is to empower entrepreneurs to succeed in the global e-commerce landscape. We provide a technology platform that revolutionizes their online sales operations. Our international team, spanning from Europe to the Americas, delivers a comprehensive, all-in-one solution to thousands of merchants worldw",
+      "detectada": "2026-07-16T20:58:46Z",
+      "ultima_vez_vista": "2026-07-17T02:38:44Z",
+      "archivada": "2026-07-20T02:57:26Z"
     }
   ]
 }
