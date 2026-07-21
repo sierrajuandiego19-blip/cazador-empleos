@@ -1,25 +1,5 @@
 {
   "ofertas": {
-    "e1de32670493b951": {
-      "id": "e1de32670493b951",
-      "fuente": "jobicy",
-      "fuente_nombre": "Jobicy",
-      "titulo": "Applied Data Scientist / Machine Learning Engineer (Decision Intelligence)",
-      "empresa": "WorkWave",
-      "url": "https://jobicy.com/jobs/147495-applied-data-scientist-machine-learning-engineer-decision-intelligence",
-      "ubicacion": "USA",
-      "salario": null,
-      "fecha_publicada": "2026-06-23T05:09:44+00:00Z",
-      "seniority": "No especificado",
-      "idioma": "en",
-      "aviso_ingles_hablado": true,
-      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
-      "confianza": 100,
-      "banderas": [],
-      "resumen": "We are looking for a product-minded Applied Data Scientist or Machine Learning Engineer to help build, ship, and scale ML-powered products that directly improve how our customers make decisions, operate their businesses, and serve their own users.This is not a research-only role, nor is it a service-oriented internal a",
-      "detectada": "2026-07-07T19:36:58Z",
-      "ultima_vez_vista": "2026-07-18T02:29:56Z"
-    },
     "6686a540fd93dd5e": {
       "id": "6686a540fd93dd5e",
       "fuente": "jobicy",
@@ -38,7 +18,7 @@
       "banderas": [],
       "resumen": "Skylum allows millions of photographers to make incredible images. Our award-winning software automates photo editing with the power of AI yet leaves all the creative control in the hands of the artist.Join us on our mission to make photo editing enjoyable, easy, and accessible to anyone. You’ll be developing products ",
       "detectada": "2026-07-09T15:10:32Z",
-      "ultima_vez_vista": "2026-07-20T18:03:04Z"
+      "ultima_vez_vista": "2026-07-21T02:41:42Z"
     },
     "f00dd62314b51c0c": {
       "id": "f00dd62314b51c0c",
@@ -79,7 +59,27 @@
       "resumen": "Posted 4:37:38 AM. Junior Power BI AnalystLocation: India (Remote)Experience: 0â1 YearCompany DescriptionStatusNeo isâ¦See this and similar jobs on LinkedIn. Please mention the word **PRIDE** and tag RNzQuMjQ5LjE5MC40OA== when applying to show you read the job post completely (#RNzQuMjQ5LjE5MC40OA==). This is a beta",
       "detectada": "2026-07-17T09:57:11Z",
       "ultima_vez_vista": "2026-07-20T06:46:05Z"
+    },
+    "68e378129ec1e3a6": {
+      "id": "68e378129ec1e3a6",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Data Analyst (Product & Customer Analytics)",
+      "empresa": "Oowlish Technology",
+      "url": "https://jobicy.com/jobs/149448-data-analyst-product-customer-analytics",
+      "ubicacion": "Brazil",
+      "salario": null,
+      "fecha_publicada": "2026-07-20T14:39:47+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": true,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Brazil»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Join Our TeamOowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team.As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering di",
+      "detectada": "2026-07-21T02:41:42Z",
+      "ultima_vez_vista": "2026-07-21T02:41:42Z"
     }
   },
-  "actualizado": "2026-07-20T21:12:10Z"
+  "actualizado": "2026-07-21T02:41:42Z"
 }
