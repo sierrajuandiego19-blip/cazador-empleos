@@ -461,6 +461,27 @@
       "detectada": "2026-07-17T09:57:11Z",
       "ultima_vez_vista": "2026-07-20T06:46:05Z",
       "archivada": "2026-07-23T10:23:07Z"
+    },
+    {
+      "id": "14fe495420d306e0",
+      "fuente": "remoteok",
+      "fuente_nombre": "Remote OK",
+      "titulo": "Data Analyst Assistant",
+      "empresa": "Blue Oak Consulting",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-assistant-blue-oak-consulting-1135326",
+      "ubicacion": "Roma, Roma, Lazio, Italia",
+      "salario": null,
+      "fecha_publicada": "2026-07-21T11:05:13Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Roma, Roma, Lazio, Italia»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "We are adding a Data Analyst Assistant to the team to support a large scale engagement with an established Italian infrastructure group. This position focuses on interrogating financial assumptions and identifying discrepancies in complex portfolios to ensure our partner makes decisions based on hard evidence rather th",
+      "detectada": "2026-07-24T02:41:07Z",
+      "ultima_vez_vista": "2026-07-24T06:26:08Z",
+      "archivada": "2026-07-27T07:31:43Z"
     }
   ]
 }
