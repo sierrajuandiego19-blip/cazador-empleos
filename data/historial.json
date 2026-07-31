@@ -482,6 +482,27 @@
       "detectada": "2026-07-24T02:41:07Z",
       "ultima_vez_vista": "2026-07-24T06:26:08Z",
       "archivada": "2026-07-27T07:31:43Z"
+    },
+    {
+      "id": "8aedb47daf6322be",
+      "fuente": "remoteok",
+      "fuente_nombre": "Remote OK",
+      "titulo": "Safety Data Analyst",
+      "empresa": "SkyWest Airlines",
+      "url": "https://remoteOK.com/remote-jobs/remote-safety-data-analyst-skywest-airlines-1135445",
+      "ubicacion": "Salt Lake City Metropolitan Area, ",
+      "salario": null,
+      "fecha_publicada": "2026-07-24T02:34:49Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Salt Lake City Metropolitan Area, »",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "About SkyWest With over 16,000 aviation professionals operating thousands of daily flights, SkyWest Airlines connects millions of passengers each month to hundreds of destinations across North America. SkyWest operates in partnership with Delta Air Lines, United Airlines, American Airlines, and Alaska Airlines and has ",
+      "detectada": "2026-07-26T20:58:00Z",
+      "ultima_vez_vista": "2026-07-28T06:27:00Z",
+      "archivada": "2026-07-31T06:43:39Z"
     }
   ]
 }
