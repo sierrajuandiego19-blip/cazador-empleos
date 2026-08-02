@@ -1,21 +1,21 @@
 {
   "getonbrd": {
-    "ultima_consulta": "2026-08-01T20:52:57Z",
+    "ultima_consulta": "2026-08-02T02:46:53Z",
     "obtenidas": 57,
     "error": null
   },
   "remotive": {
-    "ultima_consulta": "2026-08-01T16:59:10Z",
+    "ultima_consulta": "2026-08-02T02:46:53Z",
     "obtenidas": 34,
     "error": null
   },
   "remoteok": {
-    "ultima_consulta": "2026-08-01T20:52:57Z",
-    "obtenidas": 100,
-    "error": null
+    "ultima_consulta": "2026-08-02T02:46:53Z",
+    "obtenidas": 0,
+    "error": "HTTPSConnectionPool(host='remoteok.com', port=443): Read timed out. (read timeout=25)"
   },
   "jobicy": {
-    "ultima_consulta": "2026-08-01T20:52:57Z",
+    "ultima_consulta": "2026-08-02T02:46:53Z",
     "obtenidas": 50,
     "error": null
   }
