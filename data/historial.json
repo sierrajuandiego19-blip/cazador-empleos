@@ -503,6 +503,27 @@
       "detectada": "2026-07-26T20:58:00Z",
       "ultima_vez_vista": "2026-07-28T06:27:00Z",
       "archivada": "2026-07-31T06:43:39Z"
+    },
+    {
+      "id": "f74c2f55817e8cce",
+      "fuente": "remoteok",
+      "fuente_nombre": "Remote OK",
+      "titulo": "Market Research Analyst",
+      "empresa": "Blend",
+      "url": "https://remoteOK.com/remote-jobs/remote-market-research-analyst-blend-1135535",
+      "ubicacion": "New York, New York, New York, United States",
+      "salario": null,
+      "fecha_publicada": "2026-07-27T17:38:27Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «New York, New York, New York, United States»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Blend is a premier AI services provider, committed to co-creating meaningful impact for its clients through the power of data science, AI, technology, and people. With a mission to fuel bold visions, Blend tackles significant challenges by seamlessly aligning human expertise with artificial intelligence. The company is",
+      "detectada": "2026-07-28T21:08:12Z",
+      "ultima_vez_vista": "2026-07-30T14:01:30Z",
+      "archivada": "2026-08-02T16:58:45Z"
     }
   ]
 }
