@@ -545,6 +545,27 @@
       "detectada": "2026-07-09T15:10:32Z",
       "ultima_vez_vista": "2026-07-30T21:10:12Z",
       "archivada": "2026-08-03T02:48:05Z"
+    },
+    {
+      "id": "1d203d018d946f60",
+      "fuente": "remoteok",
+      "fuente_nombre": "Remote OK",
+      "titulo": "Data Analyst",
+      "empresa": "YO AI Labs",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-yo-ai-labs-1135558",
+      "ubicacion": "San Francisco, San Francisco, California, United States",
+      "salario": null,
+      "fecha_publicada": "2026-07-28T02:20:27Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «San Francisco, San Francisco, California, United States»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Job Title: Data Analyst (Excel) Job Type: Contractor Location: Remote Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required â your domain ",
+      "detectada": "2026-07-29T02:37:31Z",
+      "ultima_vez_vista": "2026-07-31T06:43:39Z",
+      "archivada": "2026-08-03T07:26:09Z"
     }
   ]
 }
