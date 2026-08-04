@@ -566,6 +566,27 @@
       "detectada": "2026-07-29T02:37:31Z",
       "ultima_vez_vista": "2026-07-31T06:43:39Z",
       "archivada": "2026-08-03T07:26:09Z"
+    },
+    {
+      "id": "9951a4bc118db844",
+      "fuente": "remoteok",
+      "fuente_nombre": "Remote OK",
+      "titulo": "Junior Data Analyst",
+      "empresa": "HiredBuddy",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-data-analyst-hiredbuddy-1135673",
+      "ubicacion": "California, California, United States",
+      "salario": null,
+      "fecha_publicada": "2026-07-28T20:34:39Z",
+      "seniority": "Junior",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «California, California, United States»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "About HiredBuddy At HiredBuddy , we connect domain specialists and subject-matter experts with leading AI research labs to shape and train the next generation of artificial intelligence. We focus on high-quality data annotation, RLHF (Reinforcement Learning from Human Feedback), and model evaluation across various doma",
+      "detectada": "2026-07-30T14:01:30Z",
+      "ultima_vez_vista": "2026-08-01T09:59:19Z",
+      "archivada": "2026-08-04T10:39:22Z"
     }
   ]
 }
