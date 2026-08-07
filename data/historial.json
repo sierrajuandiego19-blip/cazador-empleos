@@ -587,6 +587,27 @@
       "detectada": "2026-07-30T14:01:30Z",
       "ultima_vez_vista": "2026-08-01T09:59:19Z",
       "archivada": "2026-08-04T10:39:22Z"
+    },
+    {
+      "id": "55decd2ed9c06838",
+      "fuente": "remoteok",
+      "fuente_nombre": "Remote OK",
+      "titulo": "Data Analyst",
+      "empresa": "Sparksoft Corporation",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-sparksoft-corporation-1135698",
+      "ubicacion": "Columbia, Columbia, Maryland, United States",
+      "salario": null,
+      "fecha_publicada": "2026-07-30T16:31:19Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Columbia, Columbia, Maryland, United States»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Join us at Sparksoft, where we're not just another tech companyâwe're a catalyst for change. Our mission isn't just to offer IT solutions; it's to revolutionize the way you work. Here, passion isn't just a buzzword; it's the fuel behind groundbreaking ideas and transformative technologies. We serve a wide range of go",
+      "detectada": "2026-07-31T17:37:00Z",
+      "ultima_vez_vista": "2026-08-03T17:50:51Z",
+      "archivada": "2026-08-07T00:52:33Z"
     }
   ]
 }
