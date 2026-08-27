@@ -1,0 +1,25 @@
+{
+  "actualizado": "2026-08-27T18:53:15Z",
+  "ofertas": [
+    {
+      "id": "f1355ad49cf71f2b",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Data Scientist",
+      "empresa": "BetterHelp",
+      "url": "https://jobicy.com/jobs/151808-data-scientist",
+      "ubicacion": "USA",
+      "salario": null,
+      "fecha_publicada": "2026-08-27T10:17:59+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
+      "confianza": 40,
+      "banderas": [
+        "Métodos de pago típicos de estafa"
+      ],
+      "resumen": "Who are we and why should you join us? BetterHelp is on a mission to remove the traditional barriers to therapy and make mental health care more accessible to everyone. Founded in 2013, we are now the world’s largest online therapy service, providing affordable and convenient therapy across the globe. Our network of ov"
+    }
+  ]
+}
