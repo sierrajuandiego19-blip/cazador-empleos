@@ -776,6 +776,27 @@
       "detectada": "2026-08-10T09:21:04Z",
       "ultima_vez_vista": "2026-08-25T16:36:42Z",
       "archivada": "2026-08-28T19:55:24Z"
+    },
+    {
+      "id": "d3401eab63164399",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Data Analyst, Value-Based Care Analytics",
+      "empresa": "Clover Health",
+      "url": "https://jobicy.com/jobs/150925-data-analyst-value-based-care-analytics",
+      "ubicacion": "USA",
+      "salario": null,
+      "fecha_publicada": "2026-08-17T13:37:37+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": true,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Counterpart Health is an AI‑powered physician enablement platform that delivers clinical insights to providers at the point of care. Our flagship product, Counterpart Assistant, is embedded into clinicians’ workflows and integrates with EHR systems, helping care teams drive value-based outcomes, close care gaps, and pr",
+      "detectada": "2026-08-17T20:26:32Z",
+      "ultima_vez_vista": "2026-08-26T01:17:11Z",
+      "archivada": "2026-08-29T02:44:04Z"
     }
   ]
 }
