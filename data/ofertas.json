@@ -1,25 +1,5 @@
 {
   "ofertas": {
-    "ce4eb8b2f9cee178": {
-      "id": "ce4eb8b2f9cee178",
-      "fuente": "jobicy",
-      "fuente_nombre": "Jobicy",
-      "titulo": "Data Analyst, Clinical Data Effectiveness",
-      "empresa": "Clover Health",
-      "url": "https://jobicy.com/jobs/150923-data-analyst-clinical-data-effectiveness",
-      "ubicacion": "USA",
-      "salario": null,
-      "fecha_publicada": "2026-08-17T13:37:34+00:00Z",
-      "seniority": "No especificado",
-      "idioma": "en",
-      "aviso_ingles_hablado": false,
-      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
-      "confianza": 100,
-      "banderas": [],
-      "resumen": "Counterpart Health is an AI‑powered physician enablement platform that delivers clinical insights to providers at the point of care. Our flagship product, Counterpart Assistant, is embedded into clinicians’ workflows and integrates with EHR systems, helping care teams drive value-based outcomes, close care gaps, and pr",
-      "detectada": "2026-08-17T20:26:32Z",
-      "ultima_vez_vista": "2026-08-30T16:09:46Z"
-    },
     "68e378129ec1e3a6": {
       "id": "68e378129ec1e3a6",
       "fuente": "jobicy",
@@ -158,7 +138,7 @@
       "banderas": [],
       "resumen": "We are looking for a product-minded Applied Data Scientist or Machine Learning Engineer to help build, ship, and scale ML-powered products that directly improve how our customers make decisions, operate their businesses, and serve their own users.This is not a research-only role, nor is it a service-oriented internal a",
       "detectada": "2026-08-26T08:42:13Z",
-      "ultima_vez_vista": "2026-09-02T16:03:50Z"
+      "ultima_vez_vista": "2026-09-02T22:24:03Z"
     },
     "9cfd6ec275e3e94a": {
       "id": "9cfd6ec275e3e94a",
@@ -178,8 +158,8 @@
       "banderas": [],
       "resumen": "[Quora is a privately held, \"remote-first\" company. This position can be performed remotely from multiple countries around the world. Please visit careers.quora.com/eligible-countries for details regarding employment eligibility by country.] About Quora: Quora’s mission is to grow the world's collective intelligence. T",
       "detectada": "2026-08-29T16:17:23Z",
-      "ultima_vez_vista": "2026-09-02T16:03:50Z"
+      "ultima_vez_vista": "2026-09-02T22:24:03Z"
     }
   },
-  "actualizado": "2026-09-02T16:03:50Z"
+  "actualizado": "2026-09-02T22:24:03Z"
 }
