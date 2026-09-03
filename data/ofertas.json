@@ -1,25 +1,5 @@
 {
   "ofertas": {
-    "68e378129ec1e3a6": {
-      "id": "68e378129ec1e3a6",
-      "fuente": "jobicy",
-      "fuente_nombre": "Jobicy",
-      "titulo": "Data Analyst (Product & Customer Analytics)",
-      "empresa": "Oowlish Technology",
-      "url": "https://jobicy.com/jobs/149448-data-analyst-product-customer-analytics",
-      "ubicacion": "LATAM",
-      "salario": null,
-      "fecha_publicada": "2026-08-21T03:30:08+00:00Z",
-      "seniority": "No especificado",
-      "idioma": "en",
-      "aviso_ingles_hablado": true,
-      "aviso_geografico": null,
-      "confianza": 100,
-      "banderas": [],
-      "resumen": "Join Our TeamOowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team.As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering di",
-      "detectada": "2026-08-21T08:39:47Z",
-      "ultima_vez_vista": "2026-08-31T15:53:04Z"
-    },
     "486685bd229776bc": {
       "id": "486685bd229776bc",
       "fuente": "jobicy",
@@ -138,7 +118,7 @@
       "banderas": [],
       "resumen": "We are looking for a product-minded Applied Data Scientist or Machine Learning Engineer to help build, ship, and scale ML-powered products that directly improve how our customers make decisions, operate their businesses, and serve their own users.This is not a research-only role, nor is it a service-oriented internal a",
       "detectada": "2026-08-26T08:42:13Z",
-      "ultima_vez_vista": "2026-09-03T08:35:31Z"
+      "ultima_vez_vista": "2026-09-03T15:53:16Z"
     },
     "9cfd6ec275e3e94a": {
       "id": "9cfd6ec275e3e94a",
@@ -158,8 +138,8 @@
       "banderas": [],
       "resumen": "[Quora is a privately held, \"remote-first\" company. This position can be performed remotely from multiple countries around the world. Please visit careers.quora.com/eligible-countries for details regarding employment eligibility by country.] About Quora: Quora’s mission is to grow the world's collective intelligence. T",
       "detectada": "2026-08-29T16:17:23Z",
-      "ultima_vez_vista": "2026-09-03T08:35:31Z"
+      "ultima_vez_vista": "2026-09-03T15:53:16Z"
     }
   },
-  "actualizado": "2026-09-03T08:35:31Z"
+  "actualizado": "2026-09-03T15:53:16Z"
 }
