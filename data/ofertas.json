@@ -20,26 +20,6 @@
       "detectada": "2026-08-21T20:25:18Z",
       "ultima_vez_vista": "2026-09-01T09:12:59Z"
     },
-    "f9bbf2bdd6879038": {
-      "id": "f9bbf2bdd6879038",
-      "fuente": "jobicy",
-      "fuente_nombre": "Jobicy",
-      "titulo": "Data Analyst (Product & Customer Analytics)",
-      "empresa": "Oowlish Technology",
-      "url": "https://jobicy.com/jobs/151486-data-analyst-product-customer-analytics-2",
-      "ubicacion": "LATAM,  Argentina,  Brazil,  Mexico",
-      "salario": null,
-      "fecha_publicada": "2026-08-24T17:33:42+00:00Z",
-      "seniority": "No especificado",
-      "idioma": "en",
-      "aviso_ingles_hablado": true,
-      "aviso_geografico": null,
-      "confianza": 100,
-      "banderas": [],
-      "resumen": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering ",
-      "detectada": "2026-08-25T01:14:24Z",
-      "ultima_vez_vista": "2026-08-31T21:19:21Z"
-    },
     "84a24360dee26209": {
       "id": "84a24360dee26209",
       "fuente": "jobicy",
@@ -118,7 +98,7 @@
       "banderas": [],
       "resumen": "We are looking for a product-minded Applied Data Scientist or Machine Learning Engineer to help build, ship, and scale ML-powered products that directly improve how our customers make decisions, operate their businesses, and serve their own users.This is not a research-only role, nor is it a service-oriented internal a",
       "detectada": "2026-08-26T08:42:13Z",
-      "ultima_vez_vista": "2026-09-03T15:53:16Z"
+      "ultima_vez_vista": "2026-09-03T22:20:23Z"
     },
     "9cfd6ec275e3e94a": {
       "id": "9cfd6ec275e3e94a",
@@ -138,8 +118,28 @@
       "banderas": [],
       "resumen": "[Quora is a privately held, \"remote-first\" company. This position can be performed remotely from multiple countries around the world. Please visit careers.quora.com/eligible-countries for details regarding employment eligibility by country.] About Quora: Quora’s mission is to grow the world's collective intelligence. T",
       "detectada": "2026-08-29T16:17:23Z",
-      "ultima_vez_vista": "2026-09-03T15:53:16Z"
+      "ultima_vez_vista": "2026-09-03T22:20:23Z"
+    },
+    "cf4b389d6a374f9a": {
+      "id": "cf4b389d6a374f9a",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Marketing Data Scientist",
+      "empresa": "Vonage",
+      "url": "https://jobicy.com/jobs/152472-marketing-data-scientist",
+      "ubicacion": "Mexico",
+      "salario": null,
+      "fecha_publicada": "2026-09-03T18:58:41+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Mexico»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Join Vonage and help us innovate cloud communications for businesses worldwide! Why this role matters: We are looking for a Data Scientist to own our demand and revenue intelligence capabilities. You will sit at the intersection of marketing strategy and commercial outcomes, building the predictive models and analytica",
+      "detectada": "2026-09-03T22:20:23Z",
+      "ultima_vez_vista": "2026-09-03T22:20:23Z"
     }
   },
-  "actualizado": "2026-09-03T19:08:23Z"
+  "actualizado": "2026-09-03T22:20:23Z"
 }
