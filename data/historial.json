@@ -902,6 +902,27 @@
       "detectada": "2026-08-25T01:14:24Z",
       "ultima_vez_vista": "2026-08-31T21:19:21Z",
       "archivada": "2026-09-03T22:20:23Z"
+    },
+    {
+      "id": "486685bd229776bc",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Machine Learning Engineer",
+      "empresa": "Liftoff",
+      "url": "https://jobicy.com/jobs/151331-machine-learning-engineer-5",
+      "ubicacion": "USA",
+      "salario": null,
+      "fecha_publicada": "2026-08-21T15:33:48+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Liftoff is a leading AI-powered performance marketing platform for the mobile app economy. Our end-to-end technology stack helps app marketers acquire and retain high-value users, while enabling publishers to maximize revenue across programmatic and direct demand. Liftoff’s solutions, including Accelerate, Direct, Mone",
+      "detectada": "2026-08-21T20:25:18Z",
+      "ultima_vez_vista": "2026-09-01T09:12:59Z",
+      "archivada": "2026-09-04T15:51:31Z"
     }
   ]
 }
