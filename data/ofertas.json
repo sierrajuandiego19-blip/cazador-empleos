@@ -98,7 +98,7 @@
       "banderas": [],
       "resumen": "[Quora is a privately held, \"remote-first\" company. This position can be performed remotely from multiple countries around the world. Please visit careers.quora.com/eligible-countries for details regarding employment eligibility by country.] About Quora: Quora’s mission is to grow the world's collective intelligence. T",
       "detectada": "2026-08-29T16:17:23Z",
-      "ultima_vez_vista": "2026-09-05T08:06:27Z"
+      "ultima_vez_vista": "2026-09-05T14:42:06Z"
     },
     "cf4b389d6a374f9a": {
       "id": "cf4b389d6a374f9a",
@@ -118,7 +118,7 @@
       "banderas": [],
       "resumen": "Join Vonage and help us innovate cloud communications for businesses worldwide! Why this role matters: We are looking for a Data Scientist to own our demand and revenue intelligence capabilities. You will sit at the intersection of marketing strategy and commercial outcomes, building the predictive models and analytica",
       "detectada": "2026-09-03T22:20:23Z",
-      "ultima_vez_vista": "2026-09-05T08:06:27Z"
+      "ultima_vez_vista": "2026-09-05T14:42:06Z"
     },
     "ce4eb8b2f9cee178": {
       "id": "ce4eb8b2f9cee178",
@@ -138,8 +138,28 @@
       "banderas": [],
       "resumen": "Counterpart Health is an AI‑powered physician enablement platform that delivers clinical insights to providers at the point of care. Our flagship product, Counterpart Assistant, is embedded into clinicians’ workflows and integrates with EHR systems, helping care teams drive value-based outcomes, close care gaps, and pr",
       "detectada": "2026-09-04T15:51:31Z",
-      "ultima_vez_vista": "2026-09-05T08:06:27Z"
+      "ultima_vez_vista": "2026-09-05T14:42:06Z"
+    },
+    "4966278e270cedeb": {
+      "id": "4966278e270cedeb",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Data Analyst, Supply Chain",
+      "empresa": "Serve Robotics",
+      "url": "https://jobicy.com/jobs/152583-data-analyst-supply-chain",
+      "ubicacion": "Malaysia,  Mexico",
+      "salario": null,
+      "fecha_publicada": "2026-09-05T11:22:46+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Malaysia,  Mexico»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "At Serve Robotics, we’re reimagining how things move in cities. Our personable sidewalk robot is our vision for the future. It’s designed to take deliveries away from congested streets, make deliveries available to more people, and benefit local businesses. The Serve fleet has been delighting merchants, customers, and ",
+      "detectada": "2026-09-05T14:42:06Z",
+      "ultima_vez_vista": "2026-09-05T14:42:06Z"
     }
   },
-  "actualizado": "2026-09-05T08:06:27Z"
+  "actualizado": "2026-09-05T14:42:06Z"
 }
