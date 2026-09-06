@@ -1,22 +1,22 @@
 {
   "getonbrd": {
-    "ultima_consulta": "2026-09-06T03:14:35Z",
+    "ultima_consulta": "2026-09-06T08:24:24Z",
     "obtenidas": 55,
     "error": null
   },
   "remotive": {
-    "ultima_consulta": "2026-09-05T21:56:29Z",
+    "ultima_consulta": "2026-09-06T08:24:24Z",
     "obtenidas": 15,
     "error": null
   },
   "remoteok": {
-    "ultima_consulta": "2026-09-06T03:14:35Z",
+    "ultima_consulta": "2026-09-06T08:24:24Z",
     "obtenidas": 100,
     "error": null
   },
   "jobicy": {
-    "ultima_consulta": "2026-09-06T03:14:35Z",
-    "obtenidas": 50,
-    "error": null
+    "ultima_consulta": "2026-09-06T08:24:24Z",
+    "obtenidas": 0,
+    "error": "403 Client Error: Forbidden for url: https://jobicy.com/api/v2/remote-jobs?count=50&industry=data-science"
   }
 }
