@@ -1007,6 +1007,27 @@
       "detectada": "2026-08-26T08:42:13Z",
       "ultima_vez_vista": "2026-09-05T08:06:27Z",
       "archivada": "2026-09-08T08:38:45Z"
+    },
+    {
+      "id": "9cfd6ec275e3e94a",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Data Scientist - Quora",
+      "empresa": "Quora",
+      "url": "https://jobicy.com/jobs/151982-data-scientist-quora",
+      "ubicacion": "Canada,  Ireland,  USA",
+      "salario": null,
+      "fecha_publicada": "2026-08-29T10:57:26+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Canada,  Ireland,  USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "[Quora is a privately held, \"remote-first\" company. This position can be performed remotely from multiple countries around the world. Please visit careers.quora.com/eligible-countries for details regarding employment eligibility by country.] About Quora: Quora’s mission is to grow the world's collective intelligence. T",
+      "detectada": "2026-08-29T16:17:23Z",
+      "ultima_vez_vista": "2026-09-07T22:33:02Z",
+      "archivada": "2026-09-11T03:19:06Z"
     }
   ]
 }
