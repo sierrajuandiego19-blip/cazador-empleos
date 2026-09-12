@@ -18,7 +18,7 @@
       "banderas": [],
       "resumen": "Join Vonage and help us innovate cloud communications for businesses worldwide! Why this role matters: We are looking for a Data Scientist to own our demand and revenue intelligence capabilities. You will sit at the intersection of marketing strategy and commercial outcomes, building the predictive models and analytica",
       "detectada": "2026-09-03T22:20:23Z",
-      "ultima_vez_vista": "2026-09-12T15:06:20Z"
+      "ultima_vez_vista": "2026-09-12T21:57:36Z"
     },
     "ce4eb8b2f9cee178": {
       "id": "ce4eb8b2f9cee178",
@@ -38,7 +38,7 @@
       "banderas": [],
       "resumen": "Counterpart Health is an AI‑powered physician enablement platform that delivers clinical insights to providers at the point of care. Our flagship product, Counterpart Assistant, is embedded into clinicians’ workflows and integrates with EHR systems, helping care teams drive value-based outcomes, close care gaps, and pr",
       "detectada": "2026-09-04T15:51:31Z",
-      "ultima_vez_vista": "2026-09-12T15:06:20Z"
+      "ultima_vez_vista": "2026-09-12T21:57:36Z"
     },
     "4966278e270cedeb": {
       "id": "4966278e270cedeb",
@@ -58,7 +58,7 @@
       "banderas": [],
       "resumen": "At Serve Robotics, we’re reimagining how things move in cities. Our personable sidewalk robot is our vision for the future. It’s designed to take deliveries away from congested streets, make deliveries available to more people, and benefit local businesses. The Serve fleet has been delighting merchants, customers, and ",
       "detectada": "2026-09-05T14:42:06Z",
-      "ultima_vez_vista": "2026-09-12T15:06:20Z"
+      "ultima_vez_vista": "2026-09-12T21:57:36Z"
     },
     "56cf833c33a7e82c": {
       "id": "56cf833c33a7e82c",
@@ -98,8 +98,48 @@
       "banderas": [],
       "resumen": "Data Scientist, AI/ML Job Description: Today’s complex, fast-paced systems have become a minefield of reliability risks, any of which could cause an outage that costs millions and destroys customer confidence. That’s why high-availability teams use Gremlin to find and fix reliability risks before they become incidents.",
       "detectada": "2026-09-07T22:33:02Z",
-      "ultima_vez_vista": "2026-09-12T15:06:20Z"
+      "ultima_vez_vista": "2026-09-12T21:57:36Z"
+    },
+    "10d7fb8ef1b9a460": {
+      "id": "10d7fb8ef1b9a460",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Data Analyst, Internal Audit",
+      "empresa": "GiveDirectly",
+      "url": "https://jobicy.com/jobs/153127-data-analyst-internal-audit",
+      "ubicacion": "UK,  USA",
+      "salario": null,
+      "fecha_publicada": "2026-09-12T16:50:08+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «UK,  USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "GiveDirectly has delivered more than $1B in cash directly to 2+ million people living in poverty across 15 countries since 2011. We believe cash transfers are one of the most scalable, cost-effective, and dignified forms of aid, with the research to back it up. Our work has been covered by The Economist, NPR, TED, and…",
+      "detectada": "2026-09-12T21:57:36Z",
+      "ultima_vez_vista": "2026-09-12T21:57:36Z"
+    },
+    "6686a540fd93dd5e": {
+      "id": "6686a540fd93dd5e",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Machine Learning Engineer",
+      "empresa": "Skylum",
+      "url": "https://jobicy.com/jobs/149063-machine-learning-engineer-4",
+      "ubicacion": "Europe,  Ukraine",
+      "salario": null,
+      "fecha_publicada": "2026-09-12T13:45:32+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Europe,  Ukraine»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Skylum allows millions of photographers to make incredible images. Our award-winning software automates photo editing with the power of AI yet leaves all the creative control in the hands of the artist.Join us on our mission to make photo editing enjoyable, easy, and accessible to anyone. You’ll be developing products ",
+      "detectada": "2026-09-12T21:57:36Z",
+      "ultima_vez_vista": "2026-09-12T21:57:36Z"
     }
   },
-  "actualizado": "2026-09-12T18:08:56Z"
+  "actualizado": "2026-09-12T21:57:36Z"
 }
