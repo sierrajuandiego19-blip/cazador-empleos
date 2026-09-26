@@ -1154,6 +1154,48 @@
       "detectada": "2026-09-07T22:33:02Z",
       "ultima_vez_vista": "2026-09-18T08:48:54Z",
       "archivada": "2026-09-21T09:39:39Z"
+    },
+    {
+      "id": "6686a540fd93dd5e",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Machine Learning Engineer",
+      "empresa": "Skylum",
+      "url": "https://jobicy.com/jobs/149063-machine-learning-engineer-4",
+      "ubicacion": "Europe,  Ukraine",
+      "salario": null,
+      "fecha_publicada": "2026-09-12T13:45:32+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Europe,  Ukraine»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Skylum allows millions of photographers to make incredible images. Our award-winning software automates photo editing with the power of AI yet leaves all the creative control in the hands of the artist.Join us on our mission to make photo editing enjoyable, easy, and accessible to anyone. You’ll be developing products ",
+      "detectada": "2026-09-12T21:57:36Z",
+      "ultima_vez_vista": "2026-09-23T16:13:57Z",
+      "archivada": "2026-09-26T19:03:24Z"
+    },
+    {
+      "id": "71fd0163c4419363",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Business Intelligence Analyst",
+      "empresa": "Carrot",
+      "url": "https://jobicy.com/jobs/153151-business-intelligence-analyst",
+      "ubicacion": "USA",
+      "salario": null,
+      "fecha_publicada": "2026-09-13T11:47:45+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "About Carrot: Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions ",
+      "detectada": "2026-09-13T15:42:36Z",
+      "ultima_vez_vista": "2026-09-23T16:13:57Z",
+      "archivada": "2026-09-26T19:03:24Z"
     }
   ]
 }
