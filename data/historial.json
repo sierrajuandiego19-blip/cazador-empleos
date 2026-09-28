@@ -1196,6 +1196,27 @@
       "detectada": "2026-09-13T15:42:36Z",
       "ultima_vez_vista": "2026-09-23T16:13:57Z",
       "archivada": "2026-09-26T19:03:24Z"
+    },
+    {
+      "id": "8376a4c17f742bcc",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Analyst II, Full Stack (Revenue Analytics)",
+      "empresa": "Affirm",
+      "url": "https://jobicy.com/jobs/153258-analyst-ii-full-stack-revenue-analytics",
+      "ubicacion": "Spain",
+      "salario": null,
+      "fecha_publicada": "2026-09-14T14:07:57+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Spain»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. We’re looking for a curious, driven professional to join our Revenue Analytics team. This builds and owns the data products, reporting infras",
+      "detectada": "2026-09-14T17:49:04Z",
+      "ultima_vez_vista": "2026-09-25T03:44:13Z",
+      "archivada": "2026-09-28T04:00:17Z"
     }
   ]
 }
