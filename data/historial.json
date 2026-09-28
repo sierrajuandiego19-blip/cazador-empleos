@@ -1217,6 +1217,27 @@
       "detectada": "2026-09-14T17:49:04Z",
       "ultima_vez_vista": "2026-09-25T03:44:13Z",
       "archivada": "2026-09-28T04:00:17Z"
+    },
+    {
+      "id": "84a24360dee26209",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Product Data Scientist",
+      "empresa": "Tripadvisor",
+      "url": "https://jobicy.com/jobs/151540-product-data-scientist",
+      "ubicacion": "Poland",
+      "salario": null,
+      "fecha_publicada": "2026-09-25T04:10:17+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Poland»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "About Tripadvisor The Tripadvisor Group connects people to experiences worth sharing, and aims to be the world’s most trusted source for travel and experiences. We leverage our brands, technology, and capabilities to connect our global audience with partners through rich content, travel guidance, and two-sided marketpl",
+      "detectada": "2026-09-25T09:25:16Z",
+      "ultima_vez_vista": "2026-09-25T09:25:16Z",
+      "archivada": "2026-09-28T10:48:04Z"
     }
   ]
 }
