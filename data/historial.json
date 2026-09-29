@@ -1259,6 +1259,27 @@
       "detectada": "2026-09-21T17:55:48Z",
       "ultima_vez_vista": "2026-09-25T16:41:47Z",
       "archivada": "2026-09-28T19:19:10Z"
+    },
+    {
+      "id": "2b90d371a53642b6",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Analytics Engineer II",
+      "empresa": "Affirm",
+      "url": "https://jobicy.com/jobs/153263-analytics-engineer-ii",
+      "ubicacion": "Poland",
+      "salario": null,
+      "fecha_publicada": "2026-09-14T14:07:59+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Poland»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Financial Systems owns the data and reporting foundation for Accounting, and the operational reliability of the pipelines that power reportin",
+      "detectada": "2026-09-14T17:49:04Z",
+      "ultima_vez_vista": "2026-09-26T09:10:57Z",
+      "archivada": "2026-09-29T10:26:22Z"
     }
   ]
 }
