@@ -1301,6 +1301,27 @@
       "detectada": "2026-09-15T09:14:01Z",
       "ultima_vez_vista": "2026-09-27T22:50:33Z",
       "archivada": "2026-10-01T04:29:24Z"
+    },
+    {
+      "id": "ac1abedfa8a65471",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Analytics Engineer II",
+      "empresa": "Instacart",
+      "url": "https://jobicy.com/jobs/153357-analytics-engineer-ii-2",
+      "ubicacion": "Canada",
+      "salario": null,
+      "fecha_publicada": "2026-09-16T12:32:11+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Canada»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve t",
+      "detectada": "2026-09-16T16:15:33Z",
+      "ultima_vez_vista": "2026-09-28T19:19:10Z",
+      "archivada": "2026-10-01T20:49:48Z"
     }
   ]
 }
