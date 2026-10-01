@@ -1,25 +1,5 @@
 {
   "ofertas": {
-    "5d527ecbeb892c36": {
-      "id": "5d527ecbeb892c36",
-      "fuente": "jobicy",
-      "fuente_nombre": "Jobicy",
-      "titulo": "Data Scientist, Product Analytics",
-      "empresa": "Meta",
-      "url": "https://jobicy.com/jobs/150667-data-scientist-product-analytics",
-      "ubicacion": "USA",
-      "salario": null,
-      "fecha_publicada": "2026-09-15T04:40:16+00:00Z",
-      "seniority": "No especificado",
-      "idioma": "en",
-      "aviso_ingles_hablado": false,
-      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
-      "confianza": 100,
-      "banderas": [],
-      "resumen": "As a Data Scientist at Meta, you will shape the future of people-facing and business-facing products we build across our entire family of applications (Facebook, Instagram, Messenger, WhatsApp, Oculus). By applying your technical skills, analytical mindset, and product intuition to one of the richest data sets in the w",
-      "detectada": "2026-09-15T09:14:01Z",
-      "ultima_vez_vista": "2026-09-27T22:50:33Z"
-    },
     "ac1abedfa8a65471": {
       "id": "ac1abedfa8a65471",
       "fuente": "jobicy",
@@ -78,7 +58,7 @@
       "banderas": [],
       "resumen": "Liftoff is a leading AI-powered performance marketing platform for the mobile app economy. Our end-to-end technology stack helps app marketers acquire and retain high-value users, while enabling publishers to maximize revenue across programmatic and direct demand. Liftoff’s solutions, including Accelerate, Direct, Mone",
       "detectada": "2026-09-21T17:55:48Z",
-      "ultima_vez_vista": "2026-09-30T20:35:32Z"
+      "ultima_vez_vista": "2026-10-01T04:29:24Z"
     },
     "ce4eb8b2f9cee178": {
       "id": "ce4eb8b2f9cee178",
@@ -98,7 +78,7 @@
       "banderas": [],
       "resumen": "Counterpart Health is an AI‑powered physician enablement platform that delivers clinical insights to providers at the point of care. Our flagship product, Counterpart Assistant, is embedded into clinicians’ workflows and integrates with EHR systems, helping care teams drive value-based outcomes, close care gaps, and pr",
       "detectada": "2026-09-23T09:07:07Z",
-      "ultima_vez_vista": "2026-09-30T20:35:32Z"
+      "ultima_vez_vista": "2026-10-01T04:29:24Z"
     },
     "3d21f3030a61ee54": {
       "id": "3d21f3030a61ee54",
@@ -138,7 +118,7 @@
       "banderas": [],
       "resumen": "Thank you for considering Tailscale. If this job description resonates with you, please apply. Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break that statistic! About",
       "detectada": "2026-09-25T23:07:09Z",
-      "ultima_vez_vista": "2026-09-30T20:35:32Z"
+      "ultima_vez_vista": "2026-10-01T04:29:24Z"
     },
     "e1de32670493b951": {
       "id": "e1de32670493b951",
@@ -158,7 +138,7 @@
       "banderas": [],
       "resumen": "We are looking for a product-minded Applied Data Scientist or Machine Learning Engineer to help build, ship, and scale ML-powered products that directly improve how our customers make decisions, operate their businesses, and serve their own users.This is not a research-only role, nor is it a service-oriented internal a",
       "detectada": "2026-09-27T16:30:47Z",
-      "ultima_vez_vista": "2026-09-30T20:35:32Z"
+      "ultima_vez_vista": "2026-10-01T04:29:24Z"
     },
     "2ea35278edd92484": {
       "id": "2ea35278edd92484",
@@ -178,8 +158,8 @@
       "banderas": [],
       "resumen": "About Alma At Alma, we believe sustainable commerce depends on fair, well‑balanced trade. Because finance plays a pivotal role in business, our mission is to put it back in its rightful place - serving merchants and consumers. Our installment and deferred payment solutions help merchants boost sales by 20% or more, inc",
       "detectada": "2026-09-29T23:27:42Z",
-      "ultima_vez_vista": "2026-09-30T20:35:32Z"
+      "ultima_vez_vista": "2026-10-01T04:29:24Z"
     }
   },
-  "actualizado": "2026-09-30T20:35:32Z"
+  "actualizado": "2026-10-01T04:29:24Z"
 }

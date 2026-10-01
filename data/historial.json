@@ -1280,6 +1280,27 @@
       "detectada": "2026-09-14T17:49:04Z",
       "ultima_vez_vista": "2026-09-26T09:10:57Z",
       "archivada": "2026-09-29T10:26:22Z"
+    },
+    {
+      "id": "5d527ecbeb892c36",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Data Scientist, Product Analytics",
+      "empresa": "Meta",
+      "url": "https://jobicy.com/jobs/150667-data-scientist-product-analytics",
+      "ubicacion": "USA",
+      "salario": null,
+      "fecha_publicada": "2026-09-15T04:40:16+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "As a Data Scientist at Meta, you will shape the future of people-facing and business-facing products we build across our entire family of applications (Facebook, Instagram, Messenger, WhatsApp, Oculus). By applying your technical skills, analytical mindset, and product intuition to one of the richest data sets in the w",
+      "detectada": "2026-09-15T09:14:01Z",
+      "ultima_vez_vista": "2026-09-27T22:50:33Z",
+      "archivada": "2026-10-01T04:29:24Z"
     }
   ]
 }
