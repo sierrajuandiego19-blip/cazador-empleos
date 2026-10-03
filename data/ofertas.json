@@ -1,25 +1,5 @@
 {
   "ofertas": {
-    "8ca19c11a6b6fce5": {
-      "id": "8ca19c11a6b6fce5",
-      "fuente": "jobicy",
-      "fuente_nombre": "Jobicy",
-      "titulo": "Financial Data Analyst, Account Management",
-      "empresa": "SmithRx",
-      "url": "https://jobicy.com/jobs/153580-financial-data-analyst-account-management",
-      "ubicacion": "USA",
-      "salario": null,
-      "fecha_publicada": "2026-09-18T12:14:48+00:00Z",
-      "seniority": "No especificado",
-      "idioma": "en",
-      "aviso_ingles_hablado": true,
-      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
-      "confianza": 100,
-      "banderas": [],
-      "resumen": "Who We Are: SmithRx is a rapidly growing, venture-backed Health-Tech company. Our mission is to disrupt the expensive and inefficient Pharmacy Benefit Management (PBM) sector by building a next-generation drug acquisition platform driven by cutting edge technology, innovative cost saving tools, and best-in-class custom",
-      "detectada": "2026-09-18T15:56:23Z",
-      "ultima_vez_vista": "2026-09-30T04:17:26Z"
-    },
     "486685bd229776bc": {
       "id": "486685bd229776bc",
       "fuente": "jobicy",
@@ -118,7 +98,7 @@
       "banderas": [],
       "resumen": "We are looking for a product-minded Applied Data Scientist or Machine Learning Engineer to help build, ship, and scale ML-powered products that directly improve how our customers make decisions, operate their businesses, and serve their own users.This is not a research-only role, nor is it a service-oriented internal a",
       "detectada": "2026-09-27T16:30:47Z",
-      "ultima_vez_vista": "2026-10-03T04:04:05Z"
+      "ultima_vez_vista": "2026-10-03T13:05:23Z"
     },
     "2ea35278edd92484": {
       "id": "2ea35278edd92484",
@@ -138,7 +118,7 @@
       "banderas": [],
       "resumen": "About Alma At Alma, we believe sustainable commerce depends on fair, well‑balanced trade. Because finance plays a pivotal role in business, our mission is to put it back in its rightful place - serving merchants and consumers. Our installment and deferred payment solutions help merchants boost sales by 20% or more, inc",
       "detectada": "2026-09-29T23:27:42Z",
-      "ultima_vez_vista": "2026-10-03T04:04:05Z"
+      "ultima_vez_vista": "2026-10-03T13:05:23Z"
     },
     "728cb6cb600d29dc": {
       "id": "728cb6cb600d29dc",
@@ -158,8 +138,28 @@
       "banderas": [],
       "resumen": "About us: Airtm is a financial-infrastructure company building the future of the online-work economy. We are on a mission to empower the world's growing number of Digital Entrepreneurs in the Global South, giving them the financial freedom to thrive. The problem is clear: in emerging markets, accessing the dollar econo",
       "detectada": "2026-10-02T20:22:59Z",
-      "ultima_vez_vista": "2026-10-03T04:04:05Z"
+      "ultima_vez_vista": "2026-10-03T13:05:23Z"
+    },
+    "e9cc068c2497ab2a": {
+      "id": "e9cc068c2497ab2a",
+      "fuente": "remoteok",
+      "fuente_nombre": "Remote OK",
+      "titulo": "Junior Crypto Analyst & Trader",
+      "empresa": "Empire Assets",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137460",
+      "ubicacion": "Remoto",
+      "salario": "USD 60,000 – 80,000 /año",
+      "fecha_publicada": "2026-10-02T12:53:01Z",
+      "seniority": "Junior",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": null,
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Application URL https://empireground.com/work/remoteok Empire Assets is a young and rapidly developing company working in the field of digital markets and analytics. We bring together enterprising people who want to master modern approaches to trading, analysis and decision-making in a dynamic market environment. We ar",
+      "detectada": "2026-10-03T13:05:23Z",
+      "ultima_vez_vista": "2026-10-03T13:05:23Z"
     }
   },
-  "actualizado": "2026-10-03T04:04:05Z"
+  "actualizado": "2026-10-03T13:05:23Z"
 }
