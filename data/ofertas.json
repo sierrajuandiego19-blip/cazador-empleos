@@ -1,45 +1,5 @@
 {
   "ofertas": {
-    "486685bd229776bc": {
-      "id": "486685bd229776bc",
-      "fuente": "jobicy",
-      "fuente_nombre": "Jobicy",
-      "titulo": "Machine Learning Engineer",
-      "empresa": "Liftoff",
-      "url": "https://jobicy.com/jobs/151331-machine-learning-engineer-5",
-      "ubicacion": "USA",
-      "salario": null,
-      "fecha_publicada": "2026-09-21T09:55:06+00:00Z",
-      "seniority": "No especificado",
-      "idioma": "en",
-      "aviso_ingles_hablado": false,
-      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
-      "confianza": 100,
-      "banderas": [],
-      "resumen": "Liftoff is a leading AI-powered performance marketing platform for the mobile app economy. Our end-to-end technology stack helps app marketers acquire and retain high-value users, while enabling publishers to maximize revenue across programmatic and direct demand. Liftoff’s solutions, including Accelerate, Direct, Mone",
-      "detectada": "2026-09-21T17:55:48Z",
-      "ultima_vez_vista": "2026-10-01T04:29:24Z"
-    },
-    "ce4eb8b2f9cee178": {
-      "id": "ce4eb8b2f9cee178",
-      "fuente": "jobicy",
-      "fuente_nombre": "Jobicy",
-      "titulo": "Data Analyst, Clinical Data Effectiveness",
-      "empresa": "Clover Health",
-      "url": "https://jobicy.com/jobs/150923-data-analyst-clinical-data-effectiveness",
-      "ubicacion": "USA",
-      "salario": null,
-      "fecha_publicada": "2026-09-23T04:30:07+00:00Z",
-      "seniority": "No especificado",
-      "idioma": "en",
-      "aviso_ingles_hablado": false,
-      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
-      "confianza": 100,
-      "banderas": [],
-      "resumen": "Counterpart Health is an AI‑powered physician enablement platform that delivers clinical insights to providers at the point of care. Our flagship product, Counterpart Assistant, is embedded into clinicians’ workflows and integrates with EHR systems, helping care teams drive value-based outcomes, close care gaps, and pr",
-      "detectada": "2026-09-23T09:07:07Z",
-      "ultima_vez_vista": "2026-10-01T04:29:24Z"
-    },
     "91e8b9c819447265": {
       "id": "91e8b9c819447265",
       "fuente": "jobicy",
@@ -78,7 +38,7 @@
       "banderas": [],
       "resumen": "We are looking for a product-minded Applied Data Scientist or Machine Learning Engineer to help build, ship, and scale ML-powered products that directly improve how our customers make decisions, operate their businesses, and serve their own users.This is not a research-only role, nor is it a service-oriented internal a",
       "detectada": "2026-09-27T16:30:47Z",
-      "ultima_vez_vista": "2026-10-03T22:42:19Z"
+      "ultima_vez_vista": "2026-10-04T04:37:31Z"
     },
     "2ea35278edd92484": {
       "id": "2ea35278edd92484",
@@ -98,7 +58,7 @@
       "banderas": [],
       "resumen": "About Alma At Alma, we believe sustainable commerce depends on fair, well‑balanced trade. Because finance plays a pivotal role in business, our mission is to put it back in its rightful place - serving merchants and consumers. Our installment and deferred payment solutions help merchants boost sales by 20% or more, inc",
       "detectada": "2026-09-29T23:27:42Z",
-      "ultima_vez_vista": "2026-10-03T22:42:19Z"
+      "ultima_vez_vista": "2026-10-04T04:37:31Z"
     },
     "728cb6cb600d29dc": {
       "id": "728cb6cb600d29dc",
@@ -118,7 +78,7 @@
       "banderas": [],
       "resumen": "About us: Airtm is a financial-infrastructure company building the future of the online-work economy. We are on a mission to empower the world's growing number of Digital Entrepreneurs in the Global South, giving them the financial freedom to thrive. The problem is clear: in emerging markets, accessing the dollar econo",
       "detectada": "2026-10-02T20:22:59Z",
-      "ultima_vez_vista": "2026-10-03T22:42:19Z"
+      "ultima_vez_vista": "2026-10-04T04:37:31Z"
     },
     "e9cc068c2497ab2a": {
       "id": "e9cc068c2497ab2a",
@@ -138,8 +98,28 @@
       "banderas": [],
       "resumen": "Application URL https://empireground.com/work/remoteok Empire Assets is a young and rapidly developing company working in the field of digital markets and analytics. We bring together enterprising people who want to master modern approaches to trading, analysis and decision-making in a dynamic market environment. We ar",
       "detectada": "2026-10-03T13:05:23Z",
-      "ultima_vez_vista": "2026-10-03T22:42:19Z"
+      "ultima_vez_vista": "2026-10-04T04:37:31Z"
+    },
+    "daa5ab0587c71661": {
+      "id": "daa5ab0587c71661",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Data Scientist - Music Promotion",
+      "empresa": "Spotify",
+      "url": "https://jobicy.com/jobs/154477-data-scientist-music-promotion",
+      "ubicacion": "USA",
+      "salario": null,
+      "fecha_publicada": "2026-10-03T19:24:28+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "The Music Mission enables Music creators to grow, engage & monetize their fan bases on Spotify. Central to the Music Mission's vision is the development of promotional tools for artist and label teams, powered by Spotify's deep knowledge of listener behavior. Products like Discovery Mode, Marquee, Showcase, Music Video",
+      "detectada": "2026-10-04T04:37:31Z",
+      "ultima_vez_vista": "2026-10-04T04:37:31Z"
     }
   },
-  "actualizado": "2026-10-03T22:42:19Z"
+  "actualizado": "2026-10-04T04:37:31Z"
 }

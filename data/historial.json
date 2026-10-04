@@ -1364,6 +1364,48 @@
       "detectada": "2026-09-23T22:43:31Z",
       "ultima_vez_vista": "2026-09-30T20:35:32Z",
       "archivada": "2026-10-03T22:42:19Z"
+    },
+    {
+      "id": "486685bd229776bc",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Machine Learning Engineer",
+      "empresa": "Liftoff",
+      "url": "https://jobicy.com/jobs/151331-machine-learning-engineer-5",
+      "ubicacion": "USA",
+      "salario": null,
+      "fecha_publicada": "2026-09-21T09:55:06+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Liftoff is a leading AI-powered performance marketing platform for the mobile app economy. Our end-to-end technology stack helps app marketers acquire and retain high-value users, while enabling publishers to maximize revenue across programmatic and direct demand. Liftoff’s solutions, including Accelerate, Direct, Mone",
+      "detectada": "2026-09-21T17:55:48Z",
+      "ultima_vez_vista": "2026-10-01T04:29:24Z",
+      "archivada": "2026-10-04T04:37:31Z"
+    },
+    {
+      "id": "ce4eb8b2f9cee178",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Data Analyst, Clinical Data Effectiveness",
+      "empresa": "Clover Health",
+      "url": "https://jobicy.com/jobs/150923-data-analyst-clinical-data-effectiveness",
+      "ubicacion": "USA",
+      "salario": null,
+      "fecha_publicada": "2026-09-23T04:30:07+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Counterpart Health is an AI‑powered physician enablement platform that delivers clinical insights to providers at the point of care. Our flagship product, Counterpart Assistant, is embedded into clinicians’ workflows and integrates with EHR systems, helping care teams drive value-based outcomes, close care gaps, and pr",
+      "detectada": "2026-09-23T09:07:07Z",
+      "ultima_vez_vista": "2026-10-01T04:29:24Z",
+      "archivada": "2026-10-04T04:37:31Z"
     }
   ]
 }
