@@ -1427,6 +1427,27 @@
       "detectada": "2026-09-25T23:07:09Z",
       "ultima_vez_vista": "2026-10-02T14:29:27Z",
       "archivada": "2026-10-05T16:50:46Z"
+    },
+    {
+      "id": "e1de32670493b951",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Applied Data Scientist / Machine Learning Engineer (Decision Intelligence)",
+      "empresa": "WorkWave",
+      "url": "https://jobicy.com/jobs/147495-applied-data-scientist-machine-learning-engineer-decision-intelligence",
+      "ubicacion": "USA",
+      "salario": null,
+      "fecha_publicada": "2026-09-27T07:25:21+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": true,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "We are looking for a product-minded Applied Data Scientist or Machine Learning Engineer to help build, ship, and scale ML-powered products that directly improve how our customers make decisions, operate their businesses, and serve their own users.This is not a research-only role, nor is it a service-oriented internal a",
+      "detectada": "2026-09-27T16:30:47Z",
+      "ultima_vez_vista": "2026-10-04T04:37:31Z",
+      "archivada": "2026-10-07T04:38:03Z"
     }
   ]
 }
