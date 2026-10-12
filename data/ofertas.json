@@ -1,45 +1,5 @@
 {
   "ofertas": {
-    "728cb6cb600d29dc": {
-      "id": "728cb6cb600d29dc",
-      "fuente": "jobicy",
-      "fuente_nombre": "Jobicy",
-      "titulo": "AI Data Scientist",
-      "empresa": "Airtm",
-      "url": "https://jobicy.com/jobs/154413-ai-data-scientist",
-      "ubicacion": "LATAM",
-      "salario": null,
-      "fecha_publicada": "2026-10-02T15:15:29+00:00Z",
-      "seniority": "No especificado",
-      "idioma": "en",
-      "aviso_ingles_hablado": false,
-      "aviso_geografico": null,
-      "confianza": 100,
-      "banderas": [],
-      "resumen": "About us: Airtm is a financial-infrastructure company building the future of the online-work economy. We are on a mission to empower the world's growing number of Digital Entrepreneurs in the Global South, giving them the financial freedom to thrive. The problem is clear: in emerging markets, accessing the dollar econo",
-      "detectada": "2026-10-02T20:22:59Z",
-      "ultima_vez_vista": "2026-10-09T15:00:24Z"
-    },
-    "e9cc068c2497ab2a": {
-      "id": "e9cc068c2497ab2a",
-      "fuente": "remoteok",
-      "fuente_nombre": "Remote OK",
-      "titulo": "Junior Crypto Analyst & Trader",
-      "empresa": "Empire Assets",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137460",
-      "ubicacion": "Remoto",
-      "salario": "USD 60,000 – 80,000 /año",
-      "fecha_publicada": "2026-10-02T12:53:01Z",
-      "seniority": "Junior",
-      "idioma": "en",
-      "aviso_ingles_hablado": false,
-      "aviso_geografico": null,
-      "confianza": 100,
-      "banderas": [],
-      "resumen": "Application URL https://empireground.com/work/remoteok Empire Assets is a young and rapidly developing company working in the field of digital markets and analytics. We bring together enterprising people who want to master modern approaches to trading, analysis and decision-making in a dynamic market environment. We ar",
-      "detectada": "2026-10-03T13:05:23Z",
-      "ultima_vez_vista": "2026-10-09T04:51:46Z"
-    },
     "daa5ab0587c71661": {
       "id": "daa5ab0587c71661",
       "fuente": "jobicy",
@@ -118,7 +78,7 @@
       "banderas": [],
       "resumen": "Commercial Data Scientist Doximity is the leading clinical AI company with the largest network of U.S. clinicians. Doximity’s AI-powered workflow platform is trusted by over 85% of U.S. physicians and 300+ health systems. Doximity's mission is to help clinicians be more productive so they can provide better care for th",
       "detectada": "2026-10-06T23:36:07Z",
-      "ultima_vez_vista": "2026-10-12T04:38:13Z"
+      "ultima_vez_vista": "2026-10-12T17:26:29Z"
     },
     "cc6a52d02cf6cc2e": {
       "id": "cc6a52d02cf6cc2e",
@@ -138,7 +98,7 @@
       "banderas": [],
       "resumen": "About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the produ",
       "detectada": "2026-10-07T21:02:01Z",
-      "ultima_vez_vista": "2026-10-12T04:38:13Z"
+      "ultima_vez_vista": "2026-10-12T17:26:29Z"
     },
     "7793d0f545aa5e76": {
       "id": "7793d0f545aa5e76",
@@ -158,7 +118,7 @@
       "banderas": [],
       "resumen": "Data Scientist, AI/ML Job Description: Today’s complex, fast-paced systems have become a minefield of reliability risks, any of which could cause an outage that costs millions and destroys customer confidence. That’s why high-availability teams use Gremlin to find and fix reliability risks before they become incidents.",
       "detectada": "2026-10-08T15:15:21Z",
-      "ultima_vez_vista": "2026-10-12T04:38:13Z"
+      "ultima_vez_vista": "2026-10-12T17:26:29Z"
     },
     "3c8c6c311b40b36c": {
       "id": "3c8c6c311b40b36c",
@@ -178,8 +138,8 @@
       "banderas": [],
       "resumen": "About Toptal Toptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand. With $200+ million in annual revenue and team members based around the globe, Toptal is the world’s largest fully remote workforce. We take the best elements of virtual teams",
       "detectada": "2026-10-09T15:00:24Z",
-      "ultima_vez_vista": "2026-10-12T04:38:13Z"
+      "ultima_vez_vista": "2026-10-12T17:26:29Z"
     }
   },
-  "actualizado": "2026-10-12T04:38:13Z"
+  "actualizado": "2026-10-12T17:26:29Z"
 }
