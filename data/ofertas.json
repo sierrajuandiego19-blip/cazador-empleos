@@ -78,7 +78,7 @@
       "banderas": [],
       "resumen": "About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the produ",
       "detectada": "2026-10-07T21:02:01Z",
-      "ultima_vez_vista": "2026-10-13T23:37:14Z"
+      "ultima_vez_vista": "2026-10-14T03:47:10Z"
     },
     "7793d0f545aa5e76": {
       "id": "7793d0f545aa5e76",
@@ -98,7 +98,7 @@
       "banderas": [],
       "resumen": "Data Scientist, AI/ML Job Description: Today’s complex, fast-paced systems have become a minefield of reliability risks, any of which could cause an outage that costs millions and destroys customer confidence. That’s why high-availability teams use Gremlin to find and fix reliability risks before they become incidents.",
       "detectada": "2026-10-08T15:15:21Z",
-      "ultima_vez_vista": "2026-10-13T23:37:14Z"
+      "ultima_vez_vista": "2026-10-14T03:47:10Z"
     },
     "3c8c6c311b40b36c": {
       "id": "3c8c6c311b40b36c",
@@ -118,8 +118,28 @@
       "banderas": [],
       "resumen": "About Toptal Toptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand. With $200+ million in annual revenue and team members based around the globe, Toptal is the world’s largest fully remote workforce. We take the best elements of virtual teams",
       "detectada": "2026-10-09T15:00:24Z",
-      "ultima_vez_vista": "2026-10-13T23:37:14Z"
+      "ultima_vez_vista": "2026-10-14T03:47:10Z"
+    },
+    "2d0905885cc24806": {
+      "id": "2d0905885cc24806",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Data Analyst",
+      "empresa": "RevenueCat",
+      "url": "https://jobicy.com/jobs/155241-data-analyst-4",
+      "ubicacion": "EMEA,  LATAM,  Canada,  USA",
+      "salario": null,
+      "fecha_publicada": "2026-10-13T20:24:01+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": null,
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown into the default monetization platform for mobile. We're in 50%+ of newly shipped subscription apps, we process $16B+ in annual purchase volume, and we help every",
+      "detectada": "2026-10-14T03:47:10Z",
+      "ultima_vez_vista": "2026-10-14T03:47:10Z"
     }
   },
-  "actualizado": "2026-10-13T23:37:14Z"
+  "actualizado": "2026-10-14T03:47:10Z"
 }
