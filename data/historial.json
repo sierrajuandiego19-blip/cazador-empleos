@@ -1532,6 +1532,27 @@
       "detectada": "2026-10-04T04:37:31Z",
       "ultima_vez_vista": "2026-10-10T14:16:22Z",
       "archivada": "2026-10-13T18:56:42Z"
+    },
+    {
+      "id": "cf4b389d6a374f9a",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Marketing Data Scientist",
+      "empresa": "Vonage",
+      "url": "https://jobicy.com/jobs/152472-marketing-data-scientist",
+      "ubicacion": "Mexico",
+      "salario": null,
+      "fecha_publicada": "2026-10-04T04:35:25+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Mexico»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Join Vonage and help us innovate cloud communications for businesses worldwide! Why this role matters: We are looking for a Data Scientist to own our demand and revenue intelligence capabilities. You will sit at the intersection of marketing strategy and commercial outcomes, building the predictive models and analytica",
+      "detectada": "2026-10-04T13:43:57Z",
+      "ultima_vez_vista": "2026-10-11T04:22:05Z",
+      "archivada": "2026-10-14T09:19:15Z"
     }
   ]
 }

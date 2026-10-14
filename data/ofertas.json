@@ -1,25 +1,5 @@
 {
   "ofertas": {
-    "cf4b389d6a374f9a": {
-      "id": "cf4b389d6a374f9a",
-      "fuente": "jobicy",
-      "fuente_nombre": "Jobicy",
-      "titulo": "Marketing Data Scientist",
-      "empresa": "Vonage",
-      "url": "https://jobicy.com/jobs/152472-marketing-data-scientist",
-      "ubicacion": "Mexico",
-      "salario": null,
-      "fecha_publicada": "2026-10-04T04:35:25+00:00Z",
-      "seniority": "No especificado",
-      "idioma": "en",
-      "aviso_ingles_hablado": false,
-      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Mexico»",
-      "confianza": 100,
-      "banderas": [],
-      "resumen": "Join Vonage and help us innovate cloud communications for businesses worldwide! Why this role matters: We are looking for a Data Scientist to own our demand and revenue intelligence capabilities. You will sit at the intersection of marketing strategy and commercial outcomes, building the predictive models and analytica",
-      "detectada": "2026-10-04T13:43:57Z",
-      "ultima_vez_vista": "2026-10-11T04:22:05Z"
-    },
     "b4ce01515e22202a": {
       "id": "b4ce01515e22202a",
       "fuente": "jobicy",
@@ -78,7 +58,7 @@
       "banderas": [],
       "resumen": "About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the produ",
       "detectada": "2026-10-07T21:02:01Z",
-      "ultima_vez_vista": "2026-10-14T03:47:10Z"
+      "ultima_vez_vista": "2026-10-14T09:19:15Z"
     },
     "7793d0f545aa5e76": {
       "id": "7793d0f545aa5e76",
@@ -98,7 +78,7 @@
       "banderas": [],
       "resumen": "Data Scientist, AI/ML Job Description: Today’s complex, fast-paced systems have become a minefield of reliability risks, any of which could cause an outage that costs millions and destroys customer confidence. That’s why high-availability teams use Gremlin to find and fix reliability risks before they become incidents.",
       "detectada": "2026-10-08T15:15:21Z",
-      "ultima_vez_vista": "2026-10-14T03:47:10Z"
+      "ultima_vez_vista": "2026-10-14T09:19:15Z"
     },
     "3c8c6c311b40b36c": {
       "id": "3c8c6c311b40b36c",
@@ -118,7 +98,7 @@
       "banderas": [],
       "resumen": "About Toptal Toptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand. With $200+ million in annual revenue and team members based around the globe, Toptal is the world’s largest fully remote workforce. We take the best elements of virtual teams",
       "detectada": "2026-10-09T15:00:24Z",
-      "ultima_vez_vista": "2026-10-14T03:47:10Z"
+      "ultima_vez_vista": "2026-10-14T09:19:15Z"
     },
     "2d0905885cc24806": {
       "id": "2d0905885cc24806",
@@ -138,8 +118,28 @@
       "banderas": [],
       "resumen": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown into the default monetization platform for mobile. We're in 50%+ of newly shipped subscription apps, we process $16B+ in annual purchase volume, and we help every",
       "detectada": "2026-10-14T03:47:10Z",
-      "ultima_vez_vista": "2026-10-14T03:47:10Z"
+      "ultima_vez_vista": "2026-10-14T09:19:15Z"
+    },
+    "71fd0163c4419363": {
+      "id": "71fd0163c4419363",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Business Intelligence Analyst",
+      "empresa": "Carrot",
+      "url": "https://jobicy.com/jobs/153151-business-intelligence-analyst",
+      "ubicacion": "USA",
+      "salario": null,
+      "fecha_publicada": "2026-10-14T02:27:19+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "About Carrot: Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions ",
+      "detectada": "2026-10-14T09:19:15Z",
+      "ultima_vez_vista": "2026-10-14T09:19:15Z"
     }
   },
-  "actualizado": "2026-10-14T03:47:10Z"
+  "actualizado": "2026-10-14T09:19:15Z"
 }
