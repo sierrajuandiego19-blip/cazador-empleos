@@ -78,7 +78,7 @@
       "banderas": [],
       "resumen": "Data Scientist, AI/ML Job Description: Today’s complex, fast-paced systems have become a minefield of reliability risks, any of which could cause an outage that costs millions and destroys customer confidence. That’s why high-availability teams use Gremlin to find and fix reliability risks before they become incidents.",
       "detectada": "2026-10-08T15:15:21Z",
-      "ultima_vez_vista": "2026-10-14T16:40:03Z"
+      "ultima_vez_vista": "2026-10-14T22:59:29Z"
     },
     "3c8c6c311b40b36c": {
       "id": "3c8c6c311b40b36c",
@@ -98,7 +98,7 @@
       "banderas": [],
       "resumen": "About Toptal Toptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand. With $200+ million in annual revenue and team members based around the globe, Toptal is the world’s largest fully remote workforce. We take the best elements of virtual teams",
       "detectada": "2026-10-09T15:00:24Z",
-      "ultima_vez_vista": "2026-10-14T16:40:03Z"
+      "ultima_vez_vista": "2026-10-14T22:59:29Z"
     },
     "2d0905885cc24806": {
       "id": "2d0905885cc24806",
@@ -118,7 +118,7 @@
       "banderas": [],
       "resumen": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown into the default monetization platform for mobile. We're in 50%+ of newly shipped subscription apps, we process $16B+ in annual purchase volume, and we help every",
       "detectada": "2026-10-14T03:47:10Z",
-      "ultima_vez_vista": "2026-10-14T16:40:03Z"
+      "ultima_vez_vista": "2026-10-14T22:59:29Z"
     },
     "71fd0163c4419363": {
       "id": "71fd0163c4419363",
@@ -138,8 +138,48 @@
       "banderas": [],
       "resumen": "About Carrot: Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions ",
       "detectada": "2026-10-14T09:19:15Z",
-      "ultima_vez_vista": "2026-10-14T16:40:03Z"
+      "ultima_vez_vista": "2026-10-14T22:59:29Z"
+    },
+    "abd7cacb0bf203b0": {
+      "id": "abd7cacb0bf203b0",
+      "fuente": "getonbrd",
+      "fuente_nombre": "Get on Board",
+      "titulo": "Data Scientist Nivel II",
+      "empresa": "451",
+      "url": "https://www.getonbrd.com/jobs/data-scientist-nivel-ii-unholster-santiago",
+      "ubicacion": "Remoto",
+      "salario": "USD 2000 – 3000 /mes",
+      "fecha_publicada": "2026-10-14T19:57:26Z",
+      "seniority": "Middle / Semi Senior",
+      "idioma": "es",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": null,
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Egresado/a o titulado/a de Ingeniería Matemática, Eléctrica, Informática u otras Ciencias Cuantitativas (no excluyente). Vacante para nivel semi senior ( 2 a 3 años de experiencia) Experiencia en modelos estadísticos y aprendizaje automático (machine learning). Sólidos conocimientos en programación, especialmente en Py",
+      "detectada": "2026-10-14T22:59:29Z",
+      "ultima_vez_vista": "2026-10-14T22:59:29Z"
+    },
+    "7fa47187e93d32c1": {
+      "id": "7fa47187e93d32c1",
+      "fuente": "getonbrd",
+      "fuente_nombre": "Get on Board",
+      "titulo": "Data Scientist",
+      "empresa": "451",
+      "url": "https://www.getonbrd.com/jobs/data-scientist-unholster-santiago-2697",
+      "ubicacion": "Remoto",
+      "salario": "USD 1400 – 2200 /mes",
+      "fecha_publicada": "2026-10-14T18:54:14Z",
+      "seniority": "Middle / Semi Senior",
+      "idioma": "es",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": null,
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Egresado/a o titulado/a de Ingeniería Matemática, Eléctrica, Informática u otras Ciencias Cuantitativas (no excluyente). Vacantes para nivel junior (0 a 2 años de experiencia) Experiencia en modelos estadísticos y aprendizaje automático (machine learning). Sólidos conocimientos en programación, especialmente en Python.",
+      "detectada": "2026-10-14T22:59:29Z",
+      "ultima_vez_vista": "2026-10-14T22:59:29Z"
     }
   },
-  "actualizado": "2026-10-14T16:40:03Z"
+  "actualizado": "2026-10-14T22:59:29Z"
 }
