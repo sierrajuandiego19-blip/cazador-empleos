@@ -1,25 +1,5 @@
 {
   "ofertas": {
-    "b4ce01515e22202a": {
-      "id": "b4ce01515e22202a",
-      "fuente": "jobicy",
-      "fuente_nombre": "Jobicy",
-      "titulo": "Data Scientist III - Temporary",
-      "empresa": "Veracyte",
-      "url": "https://jobicy.com/jobs/154571-data-scientist-iii-temporary",
-      "ubicacion": "USA",
-      "salario": null,
-      "fecha_publicada": "2026-10-05T08:23:33+00:00Z",
-      "seniority": "No especificado",
-      "idioma": "en",
-      "aviso_ingles_hablado": false,
-      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
-      "confianza": 100,
-      "banderas": [],
-      "resumen": "At Veracyte, we offer exciting career opportunities for those interested in joining a pioneering team that is committed to transforming cancer care for patients across the globe. Working at Veracyte enables our employees to not only make a meaningful impact on the lives of patients, but to also learn and grow within a ",
-      "detectada": "2026-10-05T16:50:46Z",
-      "ultima_vez_vista": "2026-10-12T04:38:13Z"
-    },
     "be6eccdff77be17b": {
       "id": "be6eccdff77be17b",
       "fuente": "jobicy",
@@ -98,7 +78,7 @@
       "banderas": [],
       "resumen": "About Toptal Toptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand. With $200+ million in annual revenue and team members based around the globe, Toptal is the world’s largest fully remote workforce. We take the best elements of virtual teams",
       "detectada": "2026-10-09T15:00:24Z",
-      "ultima_vez_vista": "2026-10-15T03:28:52Z"
+      "ultima_vez_vista": "2026-10-15T08:54:44Z"
     },
     "2d0905885cc24806": {
       "id": "2d0905885cc24806",
@@ -118,7 +98,7 @@
       "banderas": [],
       "resumen": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown into the default monetization platform for mobile. We're in 50%+ of newly shipped subscription apps, we process $16B+ in annual purchase volume, and we help every",
       "detectada": "2026-10-14T03:47:10Z",
-      "ultima_vez_vista": "2026-10-15T03:28:52Z"
+      "ultima_vez_vista": "2026-10-15T08:54:44Z"
     },
     "71fd0163c4419363": {
       "id": "71fd0163c4419363",
@@ -138,7 +118,7 @@
       "banderas": [],
       "resumen": "About Carrot: Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions ",
       "detectada": "2026-10-14T09:19:15Z",
-      "ultima_vez_vista": "2026-10-15T03:28:52Z"
+      "ultima_vez_vista": "2026-10-15T08:54:44Z"
     },
     "abd7cacb0bf203b0": {
       "id": "abd7cacb0bf203b0",
@@ -158,7 +138,7 @@
       "banderas": [],
       "resumen": "Egresado/a o titulado/a de Ingeniería Matemática, Eléctrica, Informática u otras Ciencias Cuantitativas (no excluyente). Vacante para nivel semi senior ( 2 a 3 años de experiencia) Experiencia en modelos estadísticos y aprendizaje automático (machine learning). Sólidos conocimientos en programación, especialmente en Py",
       "detectada": "2026-10-14T22:59:29Z",
-      "ultima_vez_vista": "2026-10-15T03:28:52Z"
+      "ultima_vez_vista": "2026-10-15T08:54:44Z"
     },
     "7fa47187e93d32c1": {
       "id": "7fa47187e93d32c1",
@@ -178,8 +158,48 @@
       "banderas": [],
       "resumen": "Egresado/a o titulado/a de Ingeniería Matemática, Eléctrica, Informática u otras Ciencias Cuantitativas (no excluyente). Vacantes para nivel junior (0 a 2 años de experiencia) Experiencia en modelos estadísticos y aprendizaje automático (machine learning). Sólidos conocimientos en programación, especialmente en Python.",
       "detectada": "2026-10-14T22:59:29Z",
-      "ultima_vez_vista": "2026-10-15T03:28:52Z"
+      "ultima_vez_vista": "2026-10-15T08:54:44Z"
+    },
+    "8376a4c17f742bcc": {
+      "id": "8376a4c17f742bcc",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Analyst II, Full Stack (Revenue Analytics)",
+      "empresa": "Affirm",
+      "url": "https://jobicy.com/jobs/153258-analyst-ii-full-stack-revenue-analytics",
+      "ubicacion": "Spain",
+      "salario": null,
+      "fecha_publicada": "2026-10-15T03:50:08+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Spain»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. We’re looking for a curious, driven professional to join our Revenue Analytics team. This builds and owns the data products, reporting infras",
+      "detectada": "2026-10-15T08:54:44Z",
+      "ultima_vez_vista": "2026-10-15T08:54:44Z"
+    },
+    "2b90d371a53642b6": {
+      "id": "2b90d371a53642b6",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Analytics Engineer II",
+      "empresa": "Affirm",
+      "url": "https://jobicy.com/jobs/153263-analytics-engineer-ii",
+      "ubicacion": "Poland",
+      "salario": null,
+      "fecha_publicada": "2026-10-15T03:45:16+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Poland»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Financial Systems owns the data and reporting foundation for Accounting, and the operational reliability of the pipelines that power reportin",
+      "detectada": "2026-10-15T08:54:44Z",
+      "ultima_vez_vista": "2026-10-15T08:54:44Z"
     }
   },
-  "actualizado": "2026-10-15T03:28:52Z"
+  "actualizado": "2026-10-15T08:54:44Z"
 }

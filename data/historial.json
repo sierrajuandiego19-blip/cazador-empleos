@@ -1553,6 +1553,27 @@
       "detectada": "2026-10-04T13:43:57Z",
       "ultima_vez_vista": "2026-10-11T04:22:05Z",
       "archivada": "2026-10-14T09:19:15Z"
+    },
+    {
+      "id": "b4ce01515e22202a",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Data Scientist III - Temporary",
+      "empresa": "Veracyte",
+      "url": "https://jobicy.com/jobs/154571-data-scientist-iii-temporary",
+      "ubicacion": "USA",
+      "salario": null,
+      "fecha_publicada": "2026-10-05T08:23:33+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "At Veracyte, we offer exciting career opportunities for those interested in joining a pioneering team that is committed to transforming cancer care for patients across the globe. Working at Veracyte enables our employees to not only make a meaningful impact on the lives of patients, but to also learn and grow within a ",
+      "detectada": "2026-10-05T16:50:46Z",
+      "ultima_vez_vista": "2026-10-12T04:38:13Z",
+      "archivada": "2026-10-15T08:54:44Z"
     }
   ]
 }
