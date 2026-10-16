@@ -1574,6 +1574,27 @@
       "detectada": "2026-10-05T16:50:46Z",
       "ultima_vez_vista": "2026-10-12T04:38:13Z",
       "archivada": "2026-10-15T08:54:44Z"
+    },
+    {
+      "id": "be6eccdff77be17b",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Commercial Data Scientist",
+      "empresa": "Doximity",
+      "url": "https://jobicy.com/jobs/154739-commercial-data-scientist",
+      "ubicacion": "USA",
+      "salario": null,
+      "fecha_publicada": "2026-10-06T17:36:46+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": true,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Commercial Data Scientist Doximity is the leading clinical AI company with the largest network of U.S. clinicians. Doximity’s AI-powered workflow platform is trusted by over 85% of U.S. physicians and 300+ health systems. Doximity's mission is to help clinicians be more productive so they can provide better care for th",
+      "detectada": "2026-10-06T23:36:07Z",
+      "ultima_vez_vista": "2026-10-13T11:27:23Z",
+      "archivada": "2026-10-16T16:10:49Z"
     }
   ]
 }

@@ -1,22 +1,22 @@
 {
   "getonbrd": {
-    "ultima_consulta": "2026-10-16T08:47:00Z",
-    "obtenidas": 51,
-    "error": null
+    "ultima_consulta": "2026-10-16T16:10:48Z",
+    "obtenidas": 0,
+    "error": "403 Client Error: Forbidden for url: https://www.getonbrd.com/api/v0/categories/data-science-analytics/jobs?per_page=100&page=1"
   },
   "remotive": {
-    "ultima_consulta": "2026-10-16T08:47:00Z",
+    "ultima_consulta": "2026-10-16T16:10:48Z",
     "obtenidas": 15,
     "error": null
   },
   "remoteok": {
-    "ultima_consulta": "2026-10-16T08:47:00Z",
+    "ultima_consulta": "2026-10-16T16:10:48Z",
     "obtenidas": 99,
     "error": null
   },
   "jobicy": {
-    "ultima_consulta": "2026-10-16T08:47:00Z",
-    "obtenidas": 44,
+    "ultima_consulta": "2026-10-16T16:10:48Z",
+    "obtenidas": 43,
     "error": null
   }
 }
