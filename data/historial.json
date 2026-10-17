@@ -1595,6 +1595,27 @@
       "detectada": "2026-10-06T23:36:07Z",
       "ultima_vez_vista": "2026-10-13T11:27:23Z",
       "archivada": "2026-10-16T16:10:49Z"
+    },
+    {
+      "id": "cc6a52d02cf6cc2e",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Data Scientist II, Infrastructure",
+      "empresa": "Pinterest",
+      "url": "https://jobicy.com/jobs/154779-data-scientist-ii-infrastructure",
+      "ubicacion": "USA",
+      "salario": null,
+      "fecha_publicada": "2026-10-07T13:00:16+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the produ",
+      "detectada": "2026-10-07T21:02:01Z",
+      "ultima_vez_vista": "2026-10-14T09:19:15Z",
+      "archivada": "2026-10-17T15:04:00Z"
     }
   ]
 }
