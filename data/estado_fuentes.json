@@ -1,22 +1,22 @@
 {
   "getonbrd": {
-    "ultima_consulta": "2026-10-17T03:14:48Z",
-    "obtenidas": 52,
+    "ultima_consulta": "2026-10-17T08:17:35Z",
+    "obtenidas": 51,
     "error": null
   },
   "remotive": {
-    "ultima_consulta": "2026-10-16T22:34:53Z",
-    "obtenidas": 15,
+    "ultima_consulta": "2026-10-17T08:17:35Z",
+    "obtenidas": 13,
     "error": null
   },
   "remoteok": {
-    "ultima_consulta": "2026-10-17T03:14:48Z",
+    "ultima_consulta": "2026-10-17T08:17:35Z",
     "obtenidas": 99,
     "error": null
   },
   "jobicy": {
-    "ultima_consulta": "2026-10-17T03:14:48Z",
-    "obtenidas": 44,
+    "ultima_consulta": "2026-10-17T08:17:35Z",
+    "obtenidas": 45,
     "error": null
   }
 }
