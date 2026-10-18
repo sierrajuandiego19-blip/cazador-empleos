@@ -1616,6 +1616,27 @@
       "detectada": "2026-10-07T21:02:01Z",
       "ultima_vez_vista": "2026-10-14T09:19:15Z",
       "archivada": "2026-10-17T15:04:00Z"
+    },
+    {
+      "id": "7793d0f545aa5e76",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Data Scientist, AI/ML",
+      "empresa": "Gremlin",
+      "url": "https://jobicy.com/jobs/152746-data-scientist-ai-ml",
+      "ubicacion": "USA",
+      "salario": null,
+      "fecha_publicada": "2026-10-08T03:35:30+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Data Scientist, AI/ML Job Description: Today’s complex, fast-paced systems have become a minefield of reliability risks, any of which could cause an outage that costs millions and destroys customer confidence. That’s why high-availability teams use Gremlin to find and fix reliability risks before they become incidents.",
+      "detectada": "2026-10-08T15:15:21Z",
+      "ultima_vez_vista": "2026-10-15T03:28:52Z",
+      "archivada": "2026-10-18T08:35:42Z"
     }
   ]
 }
