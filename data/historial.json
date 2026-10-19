@@ -1637,6 +1637,27 @@
       "detectada": "2026-10-08T15:15:21Z",
       "ultima_vez_vista": "2026-10-15T03:28:52Z",
       "archivada": "2026-10-18T08:35:42Z"
+    },
+    {
+      "id": "3c8c6c311b40b36c",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Data Analytics Engineer",
+      "empresa": "Toptal",
+      "url": "https://jobicy.com/jobs/154889-data-analytics-engineer-2",
+      "ubicacion": "LATAM,  Canada,  USA",
+      "salario": null,
+      "fecha_publicada": "2026-10-09T06:19:14+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": null,
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "About Toptal Toptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand. With $200+ million in annual revenue and team members based around the globe, Toptal is the world’s largest fully remote workforce. We take the best elements of virtual teams",
+      "detectada": "2026-10-09T15:00:24Z",
+      "ultima_vez_vista": "2026-10-16T03:24:24Z",
+      "archivada": "2026-10-19T03:31:34Z"
     }
   ]
 }
