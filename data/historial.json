@@ -1658,6 +1658,48 @@
       "detectada": "2026-10-09T15:00:24Z",
       "ultima_vez_vista": "2026-10-16T03:24:24Z",
       "archivada": "2026-10-19T03:31:34Z"
+    },
+    {
+      "id": "abd7cacb0bf203b0",
+      "fuente": "getonbrd",
+      "fuente_nombre": "Get on Board",
+      "titulo": "Data Scientist Nivel II",
+      "empresa": "451",
+      "url": "https://www.getonbrd.com/jobs/data-scientist-nivel-ii-unholster-santiago",
+      "ubicacion": "Remoto",
+      "salario": "USD 2000 – 3000 /mes",
+      "fecha_publicada": "2026-10-14T19:57:26Z",
+      "seniority": "Middle / Semi Senior",
+      "idioma": "es",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": null,
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Egresado/a o titulado/a de Ingeniería Matemática, Eléctrica, Informática u otras Ciencias Cuantitativas (no excluyente). Vacante para nivel semi senior ( 2 a 3 años de experiencia) Experiencia en modelos estadísticos y aprendizaje automático (machine learning). Sólidos conocimientos en programación, especialmente en Py",
+      "detectada": "2026-10-14T22:59:29Z",
+      "ultima_vez_vista": "2026-10-19T09:38:12Z",
+      "archivada": "2026-10-22T16:43:29Z"
+    },
+    {
+      "id": "7fa47187e93d32c1",
+      "fuente": "getonbrd",
+      "fuente_nombre": "Get on Board",
+      "titulo": "Data Scientist",
+      "empresa": "451",
+      "url": "https://www.getonbrd.com/jobs/data-scientist-unholster-santiago-2697",
+      "ubicacion": "Remoto",
+      "salario": "USD 1400 – 2200 /mes",
+      "fecha_publicada": "2026-10-14T18:54:14Z",
+      "seniority": "Middle / Semi Senior",
+      "idioma": "es",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": null,
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Egresado/a o titulado/a de Ingeniería Matemática, Eléctrica, Informática u otras Ciencias Cuantitativas (no excluyente). Vacantes para nivel junior (0 a 2 años de experiencia) Experiencia en modelos estadísticos y aprendizaje automático (machine learning). Sólidos conocimientos en programación, especialmente en Python.",
+      "detectada": "2026-10-14T22:59:29Z",
+      "ultima_vez_vista": "2026-10-19T09:38:12Z",
+      "archivada": "2026-10-22T16:43:29Z"
     }
   ]
 }
