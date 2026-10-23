@@ -1,45 +1,5 @@
 {
   "ofertas": {
-    "2d0905885cc24806": {
-      "id": "2d0905885cc24806",
-      "fuente": "jobicy",
-      "fuente_nombre": "Jobicy",
-      "titulo": "Data Analyst",
-      "empresa": "RevenueCat",
-      "url": "https://jobicy.com/jobs/155241-data-analyst-4",
-      "ubicacion": "EMEA,  LATAM,  Canada,  USA",
-      "salario": null,
-      "fecha_publicada": "2026-10-13T20:24:01+00:00Z",
-      "seniority": "No especificado",
-      "idioma": "en",
-      "aviso_ingles_hablado": false,
-      "aviso_geografico": null,
-      "confianza": 100,
-      "banderas": [],
-      "resumen": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown into the default monetization platform for mobile. We're in 50%+ of newly shipped subscription apps, we process $16B+ in annual purchase volume, and we help every",
-      "detectada": "2026-10-14T03:47:10Z",
-      "ultima_vez_vista": "2026-10-20T16:26:10Z"
-    },
-    "71fd0163c4419363": {
-      "id": "71fd0163c4419363",
-      "fuente": "jobicy",
-      "fuente_nombre": "Jobicy",
-      "titulo": "Business Intelligence Analyst",
-      "empresa": "Carrot",
-      "url": "https://jobicy.com/jobs/153151-business-intelligence-analyst",
-      "ubicacion": "USA",
-      "salario": null,
-      "fecha_publicada": "2026-10-14T02:27:19+00:00Z",
-      "seniority": "No especificado",
-      "idioma": "en",
-      "aviso_ingles_hablado": false,
-      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
-      "confianza": 100,
-      "banderas": [],
-      "resumen": "About Carrot: Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions ",
-      "detectada": "2026-10-14T09:19:15Z",
-      "ultima_vez_vista": "2026-10-20T16:26:10Z"
-    },
     "8376a4c17f742bcc": {
       "id": "8376a4c17f742bcc",
       "fuente": "jobicy",
@@ -178,7 +138,7 @@
       "banderas": [],
       "resumen": "Who We Are: SmithRx is a rapidly growing, venture-backed Health-Tech company. Our mission is to disrupt the expensive and inefficient Pharmacy Benefit Management (PBM) sector by building a next-generation drug acquisition platform driven by cutting edge technology, innovative cost saving tools, and best-in-class custom",
       "detectada": "2026-10-19T09:38:12Z",
-      "ultima_vez_vista": "2026-10-23T09:08:06Z"
+      "ultima_vez_vista": "2026-10-23T16:34:11Z"
     },
     "15e9389d85959159": {
       "id": "15e9389d85959159",
@@ -198,7 +158,7 @@
       "banderas": [],
       "resumen": "**This is a contract role expected to last until April 15th, 2027 Location: This role is Remote in the U.S., with the option to work onsite from our San Francisco, CA headquarters. Visa sponsorship is not available for this role. About Doximity Doximity is the leading clinical AI company with the largest network of U.S",
       "detectada": "2026-10-19T18:24:24Z",
-      "ultima_vez_vista": "2026-10-23T09:08:06Z"
+      "ultima_vez_vista": "2026-10-23T16:34:11Z"
     },
     "c477b1e189ae466d": {
       "id": "c477b1e189ae466d",
@@ -258,7 +218,7 @@
       "banderas": [],
       "resumen": "Company Summary Arlo Solutions (Arlo) is an information technology consulting services company that specializes in delivering technology solutions. Our reputation reflects the high quality of the talented Arlo Solutions team and the consultants working in partnership with our customers. Our mission is to understand and",
       "detectada": "2026-10-20T22:56:31Z",
-      "ultima_vez_vista": "2026-10-23T09:08:06Z"
+      "ultima_vez_vista": "2026-10-23T16:34:11Z"
     },
     "1569dc97343a6614": {
       "id": "1569dc97343a6614",
@@ -278,7 +238,7 @@
       "banderas": [],
       "resumen": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily a",
       "detectada": "2026-10-20T22:56:31Z",
-      "ultima_vez_vista": "2026-10-23T09:08:06Z"
+      "ultima_vez_vista": "2026-10-23T16:34:11Z"
     },
     "6413ca444ce792a4": {
       "id": "6413ca444ce792a4",
@@ -298,8 +258,8 @@
       "banderas": [],
       "resumen": "Company Overview LevelUp is a specialist agency that provides outsourcing solutions to agencies, software vendors, and website owners. For over seven years, we have successfully collaborated with a variety of companies, providing valuable technical, operational, and back-office support. We have a large team of skilled ",
       "detectada": "2026-10-22T16:43:29Z",
-      "ultima_vez_vista": "2026-10-23T09:08:06Z"
+      "ultima_vez_vista": "2026-10-23T16:34:11Z"
     }
   },
-  "actualizado": "2026-10-23T09:08:06Z"
+  "actualizado": "2026-10-23T16:34:11Z"
 }

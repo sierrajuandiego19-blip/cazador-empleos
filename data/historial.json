@@ -1700,6 +1700,48 @@
       "detectada": "2026-10-14T22:59:29Z",
       "ultima_vez_vista": "2026-10-19T09:38:12Z",
       "archivada": "2026-10-22T16:43:29Z"
+    },
+    {
+      "id": "2d0905885cc24806",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Data Analyst",
+      "empresa": "RevenueCat",
+      "url": "https://jobicy.com/jobs/155241-data-analyst-4",
+      "ubicacion": "EMEA,  LATAM,  Canada,  USA",
+      "salario": null,
+      "fecha_publicada": "2026-10-13T20:24:01+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": null,
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown into the default monetization platform for mobile. We're in 50%+ of newly shipped subscription apps, we process $16B+ in annual purchase volume, and we help every",
+      "detectada": "2026-10-14T03:47:10Z",
+      "ultima_vez_vista": "2026-10-20T16:26:10Z",
+      "archivada": "2026-10-23T16:34:11Z"
+    },
+    {
+      "id": "71fd0163c4419363",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Business Intelligence Analyst",
+      "empresa": "Carrot",
+      "url": "https://jobicy.com/jobs/153151-business-intelligence-analyst",
+      "ubicacion": "USA",
+      "salario": null,
+      "fecha_publicada": "2026-10-14T02:27:19+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "About Carrot: Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions ",
+      "detectada": "2026-10-14T09:19:15Z",
+      "ultima_vez_vista": "2026-10-20T16:26:10Z",
+      "archivada": "2026-10-23T16:34:11Z"
     }
   ]
 }
