@@ -1742,6 +1742,48 @@
       "detectada": "2026-10-14T09:19:15Z",
       "ultima_vez_vista": "2026-10-20T16:26:10Z",
       "archivada": "2026-10-23T16:34:11Z"
+    },
+    {
+      "id": "8376a4c17f742bcc",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Analyst II, Full Stack (Revenue Analytics)",
+      "empresa": "Affirm",
+      "url": "https://jobicy.com/jobs/153258-analyst-ii-full-stack-revenue-analytics",
+      "ubicacion": "Spain",
+      "salario": null,
+      "fecha_publicada": "2026-10-15T03:50:08+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Spain»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. We’re looking for a curious, driven professional to join our Revenue Analytics team. This builds and owns the data products, reporting infras",
+      "detectada": "2026-10-15T08:54:44Z",
+      "ultima_vez_vista": "2026-10-21T09:09:20Z",
+      "archivada": "2026-10-24T15:28:17Z"
+    },
+    {
+      "id": "2b90d371a53642b6",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Analytics Engineer II",
+      "empresa": "Affirm",
+      "url": "https://jobicy.com/jobs/153263-analytics-engineer-ii",
+      "ubicacion": "Poland",
+      "salario": null,
+      "fecha_publicada": "2026-10-15T03:45:16+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Poland»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. Financial Systems owns the data and reporting foundation for Accounting, and the operational reliability of the pipelines that power reportin",
+      "detectada": "2026-10-15T08:54:44Z",
+      "ultima_vez_vista": "2026-10-21T09:09:20Z",
+      "archivada": "2026-10-24T15:28:17Z"
     }
   ]
 }
