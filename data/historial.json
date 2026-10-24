@@ -1784,6 +1784,48 @@
       "detectada": "2026-10-15T08:54:44Z",
       "ultima_vez_vista": "2026-10-21T09:09:20Z",
       "archivada": "2026-10-24T15:28:17Z"
+    },
+    {
+      "id": "c477b1e189ae466d",
+      "fuente": "getonbrd",
+      "fuente_nombre": "Get on Board",
+      "titulo": "Data Scientist Semi Senior",
+      "empresa": "451",
+      "url": "https://www.getonbrd.com/jobs/data-scientist-nivel-ii-unholster-santiago",
+      "ubicacion": "Remoto",
+      "salario": "USD 2000 – 3000 /mes",
+      "fecha_publicada": "2026-10-14T19:57:26Z",
+      "seniority": "Middle / Semi Senior",
+      "idioma": "es",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": null,
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Egresado/a o titulado/a de Ingeniería Matemática, Eléctrica, Informática u otras Ciencias Cuantitativas (no excluyente). Vacante para nivel semi senior ( 2 a 3 años de experiencia) Experiencia en modelos estadísticos y aprendizaje automático (machine learning). Sólidos conocimientos en programación, especialmente en Py",
+      "detectada": "2026-10-19T23:21:06Z",
+      "ultima_vez_vista": "2026-10-21T16:42:57Z",
+      "archivada": "2026-10-24T18:36:34Z"
+    },
+    {
+      "id": "7a2811fb4e99b057",
+      "fuente": "getonbrd",
+      "fuente_nombre": "Get on Board",
+      "titulo": "Data Scientist Junior",
+      "empresa": "451",
+      "url": "https://www.getonbrd.com/jobs/data-scientist-unholster-santiago-2697",
+      "ubicacion": "Remoto",
+      "salario": "USD 1400 – 2300 /mes",
+      "fecha_publicada": "2026-10-14T18:54:14Z",
+      "seniority": "Middle / Semi Senior",
+      "idioma": "es",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": null,
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Egresado/a o titulado/a de Ingeniería Matemática, Eléctrica, Informática u otras Ciencias Cuantitativas (no excluyente). Vacantes para nivel junior (0 a 2 años de experiencia) Experiencia en modelos estadísticos y aprendizaje automático (machine learning). Sólidos conocimientos en programación, especialmente en Python.",
+      "detectada": "2026-10-19T23:21:06Z",
+      "ultima_vez_vista": "2026-10-21T16:42:57Z",
+      "archivada": "2026-10-24T18:36:34Z"
     }
   ]
 }
