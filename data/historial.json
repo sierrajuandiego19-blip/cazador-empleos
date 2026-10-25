@@ -1847,6 +1847,27 @@
       "detectada": "2026-10-16T08:47:03Z",
       "ultima_vez_vista": "2026-10-22T03:33:13Z",
       "archivada": "2026-10-25T08:58:15Z"
+    },
+    {
+      "id": "dd92d3ee2211322e",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Analytics Engineer",
+      "empresa": "Pleo",
+      "url": "https://jobicy.com/jobs/155537-analytics-engineer-4",
+      "ubicacion": "Denmark,  Portugal,  Spain,  UK",
+      "salario": null,
+      "fecha_publicada": "2026-10-16T18:32:30+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Denmark,  Portugal,  Spain,  UK»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision",
+      "detectada": "2026-10-16T22:34:55Z",
+      "ultima_vez_vista": "2026-10-22T09:11:25Z",
+      "archivada": "2026-10-25T15:38:44Z"
     }
   ]
 }

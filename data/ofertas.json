@@ -1,25 +1,5 @@
 {
   "ofertas": {
-    "dd92d3ee2211322e": {
-      "id": "dd92d3ee2211322e",
-      "fuente": "jobicy",
-      "fuente_nombre": "Jobicy",
-      "titulo": "Analytics Engineer",
-      "empresa": "Pleo",
-      "url": "https://jobicy.com/jobs/155537-analytics-engineer-4",
-      "ubicacion": "Denmark,  Portugal,  Spain,  UK",
-      "salario": null,
-      "fecha_publicada": "2026-10-16T18:32:30+00:00Z",
-      "seniority": "No especificado",
-      "idioma": "en",
-      "aviso_ingles_hablado": false,
-      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Denmark,  Portugal,  Spain,  UK»",
-      "confianza": 100,
-      "banderas": [],
-      "resumen": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision",
-      "detectada": "2026-10-16T22:34:55Z",
-      "ultima_vez_vista": "2026-10-22T09:11:25Z"
-    },
     "cc1b9f37137f2d78": {
       "id": "cc1b9f37137f2d78",
       "fuente": "remoteok",
@@ -158,7 +138,7 @@
       "banderas": [],
       "resumen": "Company Overview LevelUp is a specialist agency that provides outsourcing solutions to agencies, software vendors, and website owners. For over seven years, we have successfully collaborated with a variety of companies, providing valuable technical, operational, and back-office support. We have a large team of skilled ",
       "detectada": "2026-10-22T16:43:29Z",
-      "ultima_vez_vista": "2026-10-25T08:58:15Z"
+      "ultima_vez_vista": "2026-10-25T15:38:44Z"
     },
     "ce4eb8b2f9cee178": {
       "id": "ce4eb8b2f9cee178",
@@ -178,7 +158,7 @@
       "banderas": [],
       "resumen": "Counterpart Health is an AI‑powered physician enablement platform that delivers clinical insights to providers at the point of care. Our flagship product, Counterpart Assistant, is embedded into clinicians’ workflows and integrates with EHR systems, helping care teams drive value-based outcomes, close care gaps, and pr",
       "detectada": "2026-10-24T08:41:17Z",
-      "ultima_vez_vista": "2026-10-25T08:58:15Z"
+      "ultima_vez_vista": "2026-10-25T15:38:44Z"
     },
     "b91b7639a083bcfa": {
       "id": "b91b7639a083bcfa",
@@ -198,8 +178,28 @@
       "banderas": [],
       "resumen": "Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give custome",
       "detectada": "2026-10-24T22:15:51Z",
-      "ultima_vez_vista": "2026-10-25T08:58:15Z"
+      "ultima_vez_vista": "2026-10-25T15:38:44Z"
+    },
+    "fd228401ffb2ef64": {
+      "id": "fd228401ffb2ef64",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Machine Learning Engineer, Ranking & Retrieval",
+      "empresa": "ClickUp",
+      "url": "https://jobicy.com/jobs/156887-machine-learning-engineer-ranking-retrieval",
+      "ubicacion": "USA",
+      "salario": null,
+      "fecha_publicada": "2026-10-25T08:33:31+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring proc",
+      "detectada": "2026-10-25T15:38:44Z",
+      "ultima_vez_vista": "2026-10-25T15:38:44Z"
     }
   },
-  "actualizado": "2026-10-25T08:58:15Z"
+  "actualizado": "2026-10-25T15:38:44Z"
 }
