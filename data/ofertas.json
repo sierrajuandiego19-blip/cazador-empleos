@@ -1,25 +1,5 @@
 {
   "ofertas": {
-    "743f822a15ea924b": {
-      "id": "743f822a15ea924b",
-      "fuente": "jobicy",
-      "fuente_nombre": "Jobicy",
-      "titulo": "Machine Learning Engineer / ML Engineer - Roleplay Sessions",
-      "empresa": "Synthesia",
-      "url": "https://jobicy.com/jobs/155646-machine-learning-engineer-ml-engineer-roleplay-sessions",
-      "ubicacion": "Europe",
-      "salario": null,
-      "fecha_publicada": "2026-10-18T04:32:37+00:00Z",
-      "seniority": "No especificado",
-      "idioma": "en",
-      "aviso_ingles_hablado": false,
-      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Europe»",
-      "confianza": 100,
-      "banderas": [],
-      "resumen": "Synthesia is the world’s leading AI video platform for business, used by over 90% of the Fortune 100. Founded in 2017, the company is headquartered in London, with offices and teams across Europe and the US. As AI continues to shape the way we live and work, Synthesia develops products to enhance visual communication a",
-      "detectada": "2026-10-18T08:35:42Z",
-      "ultima_vez_vista": "2026-10-23T03:38:07Z"
-    },
     "8ca19c11a6b6fce5": {
       "id": "8ca19c11a6b6fce5",
       "fuente": "jobicy",
@@ -118,7 +98,7 @@
       "banderas": [],
       "resumen": "Company Overview LevelUp is a specialist agency that provides outsourcing solutions to agencies, software vendors, and website owners. For over seven years, we have successfully collaborated with a variety of companies, providing valuable technical, operational, and back-office support. We have a large team of skilled ",
       "detectada": "2026-10-22T16:43:29Z",
-      "ultima_vez_vista": "2026-10-26T03:30:58Z"
+      "ultima_vez_vista": "2026-10-26T09:47:13Z"
     },
     "ce4eb8b2f9cee178": {
       "id": "ce4eb8b2f9cee178",
@@ -138,7 +118,7 @@
       "banderas": [],
       "resumen": "Counterpart Health is an AI‑powered physician enablement platform that delivers clinical insights to providers at the point of care. Our flagship product, Counterpart Assistant, is embedded into clinicians’ workflows and integrates with EHR systems, helping care teams drive value-based outcomes, close care gaps, and pr",
       "detectada": "2026-10-24T08:41:17Z",
-      "ultima_vez_vista": "2026-10-26T03:30:58Z"
+      "ultima_vez_vista": "2026-10-26T09:47:13Z"
     },
     "b91b7639a083bcfa": {
       "id": "b91b7639a083bcfa",
@@ -158,7 +138,7 @@
       "banderas": [],
       "resumen": "Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give custome",
       "detectada": "2026-10-24T22:15:51Z",
-      "ultima_vez_vista": "2026-10-26T03:30:58Z"
+      "ultima_vez_vista": "2026-10-26T09:47:13Z"
     },
     "fd228401ffb2ef64": {
       "id": "fd228401ffb2ef64",
@@ -178,8 +158,28 @@
       "banderas": [],
       "resumen": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring proc",
       "detectada": "2026-10-25T15:38:44Z",
-      "ultima_vez_vista": "2026-10-26T03:30:58Z"
+      "ultima_vez_vista": "2026-10-26T09:47:13Z"
+    },
+    "91e8b9c819447265": {
+      "id": "91e8b9c819447265",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Analytics Engineer, Data",
+      "empresa": "Tailscale",
+      "url": "https://jobicy.com/jobs/154067-analytics-engineer-data",
+      "ubicacion": "Canada",
+      "salario": null,
+      "fecha_publicada": "2026-10-26T04:20:15+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Canada»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Thank you for considering Tailscale. If this job description resonates with you, please apply. Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break that statistic! About",
+      "detectada": "2026-10-26T09:47:13Z",
+      "ultima_vez_vista": "2026-10-26T09:47:13Z"
     }
   },
-  "actualizado": "2026-10-26T03:30:58Z"
+  "actualizado": "2026-10-26T09:47:13Z"
 }
