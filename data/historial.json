@@ -1868,6 +1868,27 @@
       "detectada": "2026-10-16T22:34:55Z",
       "ultima_vez_vista": "2026-10-22T09:11:25Z",
       "archivada": "2026-10-25T15:38:44Z"
+    },
+    {
+      "id": "cc1b9f37137f2d78",
+      "fuente": "remoteok",
+      "fuente_nombre": "Remote OK",
+      "titulo": "Associate Data Scientist",
+      "empresa": "AlgaeCal",
+      "url": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
+      "ubicacion": "Vancouver",
+      "salario": null,
+      "fecha_publicada": "2026-10-16T00:00:56Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Vancouver»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Description Machine Learning Maestro: You donât just work with data - you decode it, predict the future with it, and turn it into action. Your models donât just sit on a shelf - they shape strategy, optimize efficiency, and fuel company growth. You thrive on uncovering hidden patterns, validating hypotheses, and em",
+      "detectada": "2026-10-17T03:14:50Z",
+      "ultima_vez_vista": "2026-10-22T22:58:50Z",
+      "archivada": "2026-10-26T03:30:58Z"
     }
   ]
 }
