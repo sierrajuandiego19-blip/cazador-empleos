@@ -1910,6 +1910,27 @@
       "detectada": "2026-10-18T08:35:42Z",
       "ultima_vez_vista": "2026-10-23T03:38:07Z",
       "archivada": "2026-10-26T09:47:13Z"
+    },
+    {
+      "id": "8ca19c11a6b6fce5",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Financial Data Analyst, Account Management",
+      "empresa": "SmithRx",
+      "url": "https://jobicy.com/jobs/153580-financial-data-analyst-account-management",
+      "ubicacion": "USA",
+      "salario": null,
+      "fecha_publicada": "2026-10-19T02:45:04+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": true,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Who We Are: SmithRx is a rapidly growing, venture-backed Health-Tech company. Our mission is to disrupt the expensive and inefficient Pharmacy Benefit Management (PBM) sector by building a next-generation drug acquisition platform driven by cutting edge technology, innovative cost saving tools, and best-in-class custom",
+      "detectada": "2026-10-19T09:38:12Z",
+      "ultima_vez_vista": "2026-10-24T15:28:17Z",
+      "archivada": "2026-10-27T17:33:29Z"
     }
   ]
 }
