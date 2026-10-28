@@ -1,45 +1,5 @@
 {
   "ofertas": {
-    "a29f6327a1dd2a5e": {
-      "id": "a29f6327a1dd2a5e",
-      "fuente": "jobicy",
-      "fuente_nombre": "Jobicy",
-      "titulo": "(765) Data Analyst (Healthcare Fraud)",
-      "empresa": "Arlo Solutions",
-      "url": "https://jobicy.com/jobs/156082-765-data-analyst-healthcare-fraud",
-      "ubicacion": "USA",
-      "salario": null,
-      "fecha_publicada": "2026-10-20T19:18:51+00:00Z",
-      "seniority": "No especificado",
-      "idioma": "en",
-      "aviso_ingles_hablado": false,
-      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
-      "confianza": 100,
-      "banderas": [],
-      "resumen": "Company Summary Arlo Solutions (Arlo) is an information technology consulting services company that specializes in delivering technology solutions. Our reputation reflects the high quality of the talented Arlo Solutions team and the consultants working in partnership with our customers. Our mission is to understand and",
-      "detectada": "2026-10-20T22:56:31Z",
-      "ultima_vez_vista": "2026-10-25T08:58:15Z"
-    },
-    "1569dc97343a6614": {
-      "id": "1569dc97343a6614",
-      "fuente": "jobicy",
-      "fuente_nombre": "Jobicy",
-      "titulo": "Analytics Engineer",
-      "empresa": "Reddit",
-      "url": "https://jobicy.com/jobs/156010-analytics-engineer-5",
-      "ubicacion": "USA",
-      "salario": null,
-      "fecha_publicada": "2026-10-20T15:25:31+00:00Z",
-      "seniority": "No especificado",
-      "idioma": "en",
-      "aviso_ingles_hablado": false,
-      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
-      "confianza": 100,
-      "banderas": [],
-      "resumen": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily a",
-      "detectada": "2026-10-20T22:56:31Z",
-      "ultima_vez_vista": "2026-10-25T08:58:15Z"
-    },
     "6413ca444ce792a4": {
       "id": "6413ca444ce792a4",
       "fuente": "jobicy",
@@ -78,7 +38,7 @@
       "banderas": [],
       "resumen": "Counterpart Health is an AI‑powered physician enablement platform that delivers clinical insights to providers at the point of care. Our flagship product, Counterpart Assistant, is embedded into clinicians’ workflows and integrates with EHR systems, helping care teams drive value-based outcomes, close care gaps, and pr",
       "detectada": "2026-10-24T08:41:17Z",
-      "ultima_vez_vista": "2026-10-28T04:19:28Z"
+      "ultima_vez_vista": "2026-10-28T14:53:02Z"
     },
     "b91b7639a083bcfa": {
       "id": "b91b7639a083bcfa",
@@ -98,7 +58,7 @@
       "banderas": [],
       "resumen": "Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give custome",
       "detectada": "2026-10-24T22:15:51Z",
-      "ultima_vez_vista": "2026-10-28T04:19:28Z"
+      "ultima_vez_vista": "2026-10-28T14:53:02Z"
     },
     "fd228401ffb2ef64": {
       "id": "fd228401ffb2ef64",
@@ -118,7 +78,7 @@
       "banderas": [],
       "resumen": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring proc",
       "detectada": "2026-10-25T15:38:44Z",
-      "ultima_vez_vista": "2026-10-28T04:19:28Z"
+      "ultima_vez_vista": "2026-10-28T14:53:02Z"
     },
     "91e8b9c819447265": {
       "id": "91e8b9c819447265",
@@ -138,8 +98,28 @@
       "banderas": [],
       "resumen": "Thank you for considering Tailscale. If this job description resonates with you, please apply. Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break that statistic! About",
       "detectada": "2026-10-26T09:47:13Z",
-      "ultima_vez_vista": "2026-10-28T04:19:28Z"
+      "ultima_vez_vista": "2026-10-28T14:53:02Z"
+    },
+    "e1de32670493b951": {
+      "id": "e1de32670493b951",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Applied Data Scientist / Machine Learning Engineer (Decision Intelligence)",
+      "empresa": "WorkWave",
+      "url": "https://jobicy.com/jobs/147495-applied-data-scientist-machine-learning-engineer-decision-intelligence",
+      "ubicacion": "USA",
+      "salario": null,
+      "fecha_publicada": "2026-10-28T03:25:24+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": true,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "We are looking for a product-minded Applied Data Scientist or Machine Learning Engineer to help build, ship, and scale ML-powered products that directly improve how our customers make decisions, operate their businesses, and serve their own users.This is not a research-only role, nor is it a service-oriented internal a",
+      "detectada": "2026-10-28T14:53:02Z",
+      "ultima_vez_vista": "2026-10-28T14:53:02Z"
     }
   },
-  "actualizado": "2026-10-28T04:19:28Z"
+  "actualizado": "2026-10-28T14:53:02Z"
 }

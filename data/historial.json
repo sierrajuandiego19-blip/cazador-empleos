@@ -1952,6 +1952,48 @@
       "detectada": "2026-10-19T18:24:24Z",
       "ultima_vez_vista": "2026-10-25T03:28:41Z",
       "archivada": "2026-10-28T04:19:28Z"
+    },
+    {
+      "id": "a29f6327a1dd2a5e",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "(765) Data Analyst (Healthcare Fraud)",
+      "empresa": "Arlo Solutions",
+      "url": "https://jobicy.com/jobs/156082-765-data-analyst-healthcare-fraud",
+      "ubicacion": "USA",
+      "salario": null,
+      "fecha_publicada": "2026-10-20T19:18:51+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Company Summary Arlo Solutions (Arlo) is an information technology consulting services company that specializes in delivering technology solutions. Our reputation reflects the high quality of the talented Arlo Solutions team and the consultants working in partnership with our customers. Our mission is to understand and",
+      "detectada": "2026-10-20T22:56:31Z",
+      "ultima_vez_vista": "2026-10-25T08:58:15Z",
+      "archivada": "2026-10-28T14:53:02Z"
+    },
+    {
+      "id": "1569dc97343a6614",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Analytics Engineer",
+      "empresa": "Reddit",
+      "url": "https://jobicy.com/jobs/156010-analytics-engineer-5",
+      "ubicacion": "USA",
+      "salario": null,
+      "fecha_publicada": "2026-10-20T15:25:31+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily a",
+      "detectada": "2026-10-20T22:56:31Z",
+      "ultima_vez_vista": "2026-10-25T08:58:15Z",
+      "archivada": "2026-10-28T14:53:02Z"
     }
   ]
 }
