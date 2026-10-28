@@ -1,25 +1,5 @@
 {
   "ofertas": {
-    "15e9389d85959159": {
-      "id": "15e9389d85959159",
-      "fuente": "jobicy",
-      "fuente_nombre": "Jobicy",
-      "titulo": "Business Intelligence Analyst (Contractor)",
-      "empresa": "Doximity",
-      "url": "https://jobicy.com/jobs/155822-business-intelligence-analyst-contractor",
-      "ubicacion": "USA",
-      "salario": null,
-      "fecha_publicada": "2026-10-19T12:09:50+00:00Z",
-      "seniority": "No especificado",
-      "idioma": "en",
-      "aviso_ingles_hablado": true,
-      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
-      "confianza": 100,
-      "banderas": [],
-      "resumen": "**This is a contract role expected to last until April 15th, 2027 Location: This role is Remote in the U.S., with the option to work onsite from our San Francisco, CA headquarters. Visa sponsorship is not available for this role. About Doximity Doximity is the leading clinical AI company with the largest network of U.S",
-      "detectada": "2026-10-19T18:24:24Z",
-      "ultima_vez_vista": "2026-10-25T03:28:41Z"
-    },
     "a29f6327a1dd2a5e": {
       "id": "a29f6327a1dd2a5e",
       "fuente": "jobicy",
@@ -98,7 +78,7 @@
       "banderas": [],
       "resumen": "Counterpart Health is an AI‑powered physician enablement platform that delivers clinical insights to providers at the point of care. Our flagship product, Counterpart Assistant, is embedded into clinicians’ workflows and integrates with EHR systems, helping care teams drive value-based outcomes, close care gaps, and pr",
       "detectada": "2026-10-24T08:41:17Z",
-      "ultima_vez_vista": "2026-10-27T23:32:10Z"
+      "ultima_vez_vista": "2026-10-28T04:19:28Z"
     },
     "b91b7639a083bcfa": {
       "id": "b91b7639a083bcfa",
@@ -118,7 +98,7 @@
       "banderas": [],
       "resumen": "Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give custome",
       "detectada": "2026-10-24T22:15:51Z",
-      "ultima_vez_vista": "2026-10-27T23:32:10Z"
+      "ultima_vez_vista": "2026-10-28T04:19:28Z"
     },
     "fd228401ffb2ef64": {
       "id": "fd228401ffb2ef64",
@@ -138,7 +118,7 @@
       "banderas": [],
       "resumen": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring proc",
       "detectada": "2026-10-25T15:38:44Z",
-      "ultima_vez_vista": "2026-10-27T23:32:10Z"
+      "ultima_vez_vista": "2026-10-28T04:19:28Z"
     },
     "91e8b9c819447265": {
       "id": "91e8b9c819447265",
@@ -158,8 +138,8 @@
       "banderas": [],
       "resumen": "Thank you for considering Tailscale. If this job description resonates with you, please apply. Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break that statistic! About",
       "detectada": "2026-10-26T09:47:13Z",
-      "ultima_vez_vista": "2026-10-27T23:32:10Z"
+      "ultima_vez_vista": "2026-10-28T04:19:28Z"
     }
   },
-  "actualizado": "2026-10-27T23:32:10Z"
+  "actualizado": "2026-10-28T04:19:28Z"
 }
