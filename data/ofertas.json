@@ -98,7 +98,7 @@
       "banderas": [],
       "resumen": "Thank you for considering Tailscale. If this job description resonates with you, please apply. Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break that statistic! About",
       "detectada": "2026-10-26T09:47:13Z",
-      "ultima_vez_vista": "2026-10-29T04:39:29Z"
+      "ultima_vez_vista": "2026-10-29T20:53:40Z"
     },
     "e1de32670493b951": {
       "id": "e1de32670493b951",
@@ -118,8 +118,68 @@
       "banderas": [],
       "resumen": "We are looking for a product-minded Applied Data Scientist or Machine Learning Engineer to help build, ship, and scale ML-powered products that directly improve how our customers make decisions, operate their businesses, and serve their own users.This is not a research-only role, nor is it a service-oriented internal a",
       "detectada": "2026-10-28T14:53:02Z",
-      "ultima_vez_vista": "2026-10-29T04:39:29Z"
+      "ultima_vez_vista": "2026-10-29T20:53:40Z"
+    },
+    "d1363e7f797fedaa": {
+      "id": "d1363e7f797fedaa",
+      "fuente": "getonbrd",
+      "fuente_nombre": "Get on Board",
+      "titulo": "Data Analyst I",
+      "empresa": "15335",
+      "url": "https://www.getonbrd.com/jobs/data-analyst-i-signant-health-remote-947a",
+      "ubicacion": "Remoto (LATAM)",
+      "salario": "USD 1000 – 1300 /mes",
+      "fecha_publicada": "2026-10-29T15:23:03Z",
+      "seniority": "Junior",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": null,
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Education 1-3 years of experience working in a data-driven environment. Working knowledge of Structured Query Language (SQL), as well as Microsoft Windows 2000/2003/XP and the suite of Microsoft Office applications. Experience with standard data mining and data presentation techniques. Proven ability to handle multiple",
+      "detectada": "2026-10-29T20:53:40Z",
+      "ultima_vez_vista": "2026-10-29T20:53:40Z"
+    },
+    "72f52debb9fa1e6a": {
+      "id": "72f52debb9fa1e6a",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Binance Accelerator Program - Data Scientist (User Growth)",
+      "empresa": "Binance",
+      "url": "https://jobicy.com/jobs/157702-binance-accelerator-program-data-scientist-user-growth",
+      "ubicacion": "Singapore",
+      "salario": null,
+      "fecha_publicada": "2026-10-29T03:56:57+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Singapore»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio ",
+      "detectada": "2026-10-29T20:53:40Z",
+      "ultima_vez_vista": "2026-10-29T20:53:40Z"
+    },
+    "1968c6960ffc0a8f": {
+      "id": "1968c6960ffc0a8f",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Binance Accelerator Program - Data Scientist (Recommendation/Square Community)",
+      "empresa": "Binance",
+      "url": "https://jobicy.com/jobs/157700-binance-accelerator-program-data-scientist-recommendation-square-community",
+      "ubicacion": "Singapore",
+      "salario": null,
+      "fecha_publicada": "2026-10-29T03:56:33+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Singapore»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio ",
+      "detectada": "2026-10-29T20:53:40Z",
+      "ultima_vez_vista": "2026-10-29T20:53:40Z"
     }
   },
-  "actualizado": "2026-10-29T14:58:52Z"
+  "actualizado": "2026-10-29T20:53:40Z"
 }
