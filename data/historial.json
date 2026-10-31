@@ -2015,6 +2015,27 @@
       "detectada": "2026-10-22T16:43:29Z",
       "ultima_vez_vista": "2026-10-27T17:33:29Z",
       "archivada": "2026-10-30T20:26:49Z"
+    },
+    {
+      "id": "ce4eb8b2f9cee178",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Data Analyst, Clinical Data Effectiveness",
+      "empresa": "Clover Health",
+      "url": "https://jobicy.com/jobs/150923-data-analyst-clinical-data-effectiveness",
+      "ubicacion": "USA",
+      "salario": null,
+      "fecha_publicada": "2026-10-24T03:45:06+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Counterpart Health is an AI‑powered physician enablement platform that delivers clinical insights to providers at the point of care. Our flagship product, Counterpart Assistant, is embedded into clinicians’ workflows and integrates with EHR systems, helping care teams drive value-based outcomes, close care gaps, and pr",
+      "detectada": "2026-10-24T08:41:17Z",
+      "ultima_vez_vista": "2026-10-28T14:53:02Z",
+      "archivada": "2026-10-31T19:44:21Z"
     }
   ]
 }
