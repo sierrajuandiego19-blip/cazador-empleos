@@ -2078,6 +2078,27 @@
       "detectada": "2026-10-25T15:38:44Z",
       "ultima_vez_vista": "2026-10-29T04:39:29Z",
       "archivada": "2026-11-01T04:42:43Z"
+    },
+    {
+      "id": "91e8b9c819447265",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Analytics Engineer, Data",
+      "empresa": "Tailscale",
+      "url": "https://jobicy.com/jobs/154067-analytics-engineer-data",
+      "ubicacion": "Canada",
+      "salario": null,
+      "fecha_publicada": "2026-10-26T04:20:15+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Canada»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Thank you for considering Tailscale. If this job description resonates with you, please apply. Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break that statistic! About",
+      "detectada": "2026-10-26T09:47:13Z",
+      "ultima_vez_vista": "2026-10-30T04:39:34Z",
+      "archivada": "2026-11-02T04:44:09Z"
     }
   ]
 }
