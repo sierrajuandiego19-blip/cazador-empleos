@@ -18,7 +18,7 @@
       "banderas": [],
       "resumen": "Education 1-3 years of experience working in a data-driven environment. Working knowledge of Structured Query Language (SQL), as well as Microsoft Windows 2000/2003/XP and the suite of Microsoft Office applications. Experience with standard data mining and data presentation techniques. Proven ability to handle multiple",
       "detectada": "2026-10-29T20:53:40Z",
-      "ultima_vez_vista": "2026-11-05T00:44:47Z"
+      "ultima_vez_vista": "2026-11-05T11:54:35Z"
     },
     "a9397a0f301b6b23": {
       "id": "a9397a0f301b6b23",
@@ -118,7 +118,7 @@
       "banderas": [],
       "resumen": "2+ years of experience as a Media Analyst, Marketing Analyst, or similar role, ideally in an agency environment. Advanced proficiency in Microsoft Excel and Google Sheets (pivot tables and lookups are second nature). Experience building and maintaining dashboards in data visualization tools (Agency Analytics, Looker St",
       "detectada": "2026-11-03T11:39:32Z",
-      "ultima_vez_vista": "2026-11-05T00:44:47Z"
+      "ultima_vez_vista": "2026-11-05T11:54:35Z"
     },
     "f1d7ac0e25533caf": {
       "id": "f1d7ac0e25533caf",
@@ -159,7 +159,27 @@
       "resumen": "Software Engineer, Data & Analytics Platform In Brief We’re a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. We’re looking for a software engineer to join the team to build and scale our data and analytical pla",
       "detectada": "2026-11-03T19:08:45Z",
       "ultima_vez_vista": "2026-11-05T00:44:47Z"
+    },
+    "cf4b389d6a374f9a": {
+      "id": "cf4b389d6a374f9a",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Marketing Data Scientist",
+      "empresa": "Vonage",
+      "url": "https://jobicy.com/jobs/152472-marketing-data-scientist",
+      "ubicacion": "Mexico",
+      "salario": null,
+      "fecha_publicada": "2026-11-05T03:10:10+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Mexico»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Join Vonage and help us innovate cloud communications for businesses worldwide! Why this role matters: We are looking for a Data Scientist to own our demand and revenue intelligence capabilities. You will sit at the intersection of marketing strategy and commercial outcomes, building the predictive models and analytica",
+      "detectada": "2026-11-05T11:54:35Z",
+      "ultima_vez_vista": "2026-11-05T11:54:35Z"
     }
   },
-  "actualizado": "2026-11-05T00:44:47Z"
+  "actualizado": "2026-11-05T11:54:35Z"
 }
