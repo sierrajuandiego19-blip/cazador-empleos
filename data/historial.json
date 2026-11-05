@@ -2162,6 +2162,27 @@
       "detectada": "2026-10-29T20:53:40Z",
       "ultima_vez_vista": "2026-11-01T04:42:43Z",
       "archivada": "2026-11-04T11:52:39Z"
+    },
+    {
+      "id": "2ea35278edd92484",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Analytics Engineer",
+      "empresa": "Alma",
+      "url": "https://jobicy.com/jobs/154219-analytics-engineer-3",
+      "ubicacion": "France",
+      "salario": null,
+      "fecha_publicada": "2026-10-30T03:30:21+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «France»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "About Alma At Alma, we believe sustainable commerce depends on fair, well‑balanced trade. Because finance plays a pivotal role in business, our mission is to put it back in its rightful place - serving merchants and consumers. Our installment and deferred payment solutions help merchants boost sales by 20% or more, inc",
+      "detectada": "2026-10-30T14:51:52Z",
+      "ultima_vez_vista": "2026-11-01T20:15:07Z",
+      "archivada": "2026-11-05T00:44:47Z"
     }
   ]
 }
