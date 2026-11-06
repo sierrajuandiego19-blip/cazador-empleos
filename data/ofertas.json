@@ -20,46 +20,6 @@
       "detectada": "2026-10-29T20:53:40Z",
       "ultima_vez_vista": "2026-11-05T11:54:35Z"
     },
-    "a9397a0f301b6b23": {
-      "id": "a9397a0f301b6b23",
-      "fuente": "jobicy",
-      "fuente_nombre": "Jobicy",
-      "titulo": "Analytics Engineer",
-      "empresa": "Elevenlabs",
-      "url": "https://jobicy.com/jobs/158351-analytics-engineer-6",
-      "ubicacion": "Europe",
-      "salario": null,
-      "fecha_publicada": "2026-11-01T08:54:08+00:00Z",
-      "seniority": "No especificado",
-      "idioma": "en",
-      "aviso_ingles_hablado": false,
-      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Europe»",
-      "confianza": 100,
-      "banderas": [],
-      "resumen": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and ",
-      "detectada": "2026-11-01T14:46:05Z",
-      "ultima_vez_vista": "2026-11-03T19:08:45Z"
-    },
-    "9096fcabc936e84e": {
-      "id": "9096fcabc936e84e",
-      "fuente": "jobicy",
-      "fuente_nombre": "Jobicy",
-      "titulo": "Data Scientist - Music Promotion",
-      "empresa": "Spotify",
-      "url": "https://jobicy.com/jobs/158377-data-scientist-music-promotion-2",
-      "ubicacion": "USA",
-      "salario": null,
-      "fecha_publicada": "2026-11-01T18:19:20+00:00Z",
-      "seniority": "No especificado",
-      "idioma": "en",
-      "aviso_ingles_hablado": false,
-      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
-      "confianza": 100,
-      "banderas": [],
-      "resumen": "The Music Mission enables Music creators to grow, engage & monetize their fan bases on Spotify. Central to the Music Mission's vision is the development of promotional tools for artist and label teams, powered by Spotify's deep knowledge of listener behavior. Products like Discovery Mode, Marquee, Showcase, Music Video",
-      "detectada": "2026-11-02T04:44:09Z",
-      "ultima_vez_vista": "2026-11-03T19:08:45Z"
-    },
     "0edb4e180734091f": {
       "id": "0edb4e180734091f",
       "fuente": "jobicy",
@@ -80,26 +40,6 @@
       "detectada": "2026-11-02T17:52:33Z",
       "ultima_vez_vista": "2026-11-04T11:52:39Z"
     },
-    "728cb6cb600d29dc": {
-      "id": "728cb6cb600d29dc",
-      "fuente": "jobicy",
-      "fuente_nombre": "Jobicy",
-      "titulo": "AI Data Scientist",
-      "empresa": "Airtm",
-      "url": "https://jobicy.com/jobs/154413-ai-data-scientist",
-      "ubicacion": "LATAM",
-      "salario": null,
-      "fecha_publicada": "2026-11-02T03:10:20+00:00Z",
-      "seniority": "No especificado",
-      "idioma": "en",
-      "aviso_ingles_hablado": false,
-      "aviso_geografico": null,
-      "confianza": 100,
-      "banderas": [],
-      "resumen": "About us: Airtm is a financial-infrastructure company building the future of the online-work economy. We are on a mission to empower the world's growing number of Digital Entrepreneurs in the Global South, giving them the financial freedom to thrive. The problem is clear: in emerging markets, accessing the dollar econo",
-      "detectada": "2026-11-02T17:52:33Z",
-      "ultima_vez_vista": "2026-11-03T19:08:45Z"
-    },
     "ac76db1aa79304a1": {
       "id": "ac76db1aa79304a1",
       "fuente": "getonbrd",
@@ -118,7 +58,7 @@
       "banderas": [],
       "resumen": "2+ years of experience as a Media Analyst, Marketing Analyst, or similar role, ideally in an agency environment. Advanced proficiency in Microsoft Excel and Google Sheets (pivot tables and lookups are second nature). Experience building and maintaining dashboards in data visualization tools (Agency Analytics, Looker St",
       "detectada": "2026-11-03T11:39:32Z",
-      "ultima_vez_vista": "2026-11-06T18:57:05Z"
+      "ultima_vez_vista": "2026-11-06T23:57:52Z"
     },
     "f1d7ac0e25533caf": {
       "id": "f1d7ac0e25533caf",
@@ -178,7 +118,7 @@
       "banderas": [],
       "resumen": "Join Vonage and help us innovate cloud communications for businesses worldwide! Why this role matters: We are looking for a Data Scientist to own our demand and revenue intelligence capabilities. You will sit at the intersection of marketing strategy and commercial outcomes, building the predictive models and analytica",
       "detectada": "2026-11-05T11:54:35Z",
-      "ultima_vez_vista": "2026-11-06T18:57:05Z"
+      "ultima_vez_vista": "2026-11-06T23:57:52Z"
     },
     "6f3ab0bbc7fcb508": {
       "id": "6f3ab0bbc7fcb508",
@@ -198,7 +138,7 @@
       "banderas": [],
       "resumen": "About Solace Healthcare in the U.S. is fundamentally broken. The system is so complex that 88% of U.S. adults do not have the health literacy necessary to navigate it without help. Solace cuts through the red tape of healthcare by pairing patients with expert advocates and giving them the tools to make better decisions",
       "detectada": "2026-11-06T11:50:58Z",
-      "ultima_vez_vista": "2026-11-06T18:57:05Z"
+      "ultima_vez_vista": "2026-11-06T23:57:52Z"
     },
     "be6eccdff77be17b": {
       "id": "be6eccdff77be17b",
@@ -218,8 +158,8 @@
       "banderas": [],
       "resumen": "Commercial Data Scientist Doximity is the leading clinical AI company with the largest network of U.S. clinicians. Doximity’s AI-powered workflow platform is trusted by over 85% of U.S. physicians and 300+ health systems. Doximity's mission is to help clinicians be more productive so they can provide better care for th",
       "detectada": "2026-11-06T11:50:58Z",
-      "ultima_vez_vista": "2026-11-06T18:57:05Z"
+      "ultima_vez_vista": "2026-11-06T23:57:52Z"
     }
   },
-  "actualizado": "2026-11-06T18:57:05Z"
+  "actualizado": "2026-11-06T23:57:52Z"
 }
