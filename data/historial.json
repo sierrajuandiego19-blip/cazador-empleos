@@ -2267,6 +2267,48 @@
       "detectada": "2026-11-02T17:52:33Z",
       "ultima_vez_vista": "2026-11-04T11:52:39Z",
       "archivada": "2026-11-07T14:42:15Z"
+    },
+    {
+      "id": "f1d7ac0e25533caf",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Data Analytics Engineer",
+      "empresa": "Ruby Labs",
+      "url": "https://jobicy.com/jobs/158715-data-analytics-engineer-3",
+      "ubicacion": "Europe",
+      "salario": null,
+      "fecha_publicada": "2026-11-03T15:21:35+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Europe»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "About us Ruby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individ",
+      "detectada": "2026-11-03T19:08:45Z",
+      "ultima_vez_vista": "2026-11-05T00:44:47Z",
+      "archivada": "2026-11-08T04:46:03Z"
+    },
+    {
+      "id": "3446e0f7197920a2",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Software Engineer, Data & Analytics Platform",
+      "empresa": "Bayesian Health",
+      "url": "https://jobicy.com/jobs/158648-software-engineer-data-analytics-platform",
+      "ubicacion": "USA",
+      "salario": null,
+      "fecha_publicada": "2026-11-03T14:19:45+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Software Engineer, Data & Analytics Platform In Brief We’re a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. We’re looking for a software engineer to join the team to build and scale our data and analytical pla",
+      "detectada": "2026-11-03T19:08:45Z",
+      "ultima_vez_vista": "2026-11-05T00:44:47Z",
+      "archivada": "2026-11-08T04:46:03Z"
     }
   ]
 }
