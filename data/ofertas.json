@@ -18,7 +18,7 @@
       "banderas": [],
       "resumen": "2+ years of experience as a Media Analyst, Marketing Analyst, or similar role, ideally in an agency environment. Advanced proficiency in Microsoft Excel and Google Sheets (pivot tables and lookups are second nature). Experience building and maintaining dashboards in data visualization tools (Agency Analytics, Looker St",
       "detectada": "2026-11-03T11:39:32Z",
-      "ultima_vez_vista": "2026-11-09T04:54:58Z"
+      "ultima_vez_vista": "2026-11-09T18:23:15Z"
     },
     "cf4b389d6a374f9a": {
       "id": "cf4b389d6a374f9a",
@@ -79,7 +79,47 @@
       "resumen": "Commercial Data Scientist Doximity is the leading clinical AI company with the largest network of U.S. clinicians. Doximity’s AI-powered workflow platform is trusted by over 85% of U.S. physicians and 300+ health systems. Doximity's mission is to help clinicians be more productive so they can provide better care for th",
       "detectada": "2026-11-06T11:50:58Z",
       "ultima_vez_vista": "2026-11-09T04:54:58Z"
+    },
+    "7e2795c1c72f7809": {
+      "id": "7e2795c1c72f7809",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "LLM Applied Data Scientist (RAG/ NLP)",
+      "empresa": "Binance",
+      "url": "https://jobicy.com/jobs/160069-llm-applied-data-scientist-rag-nlp",
+      "ubicacion": "Hong Kong,  Singapore",
+      "salario": null,
+      "fecha_publicada": "2026-11-09T12:44:26+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Hong Kong,  Singapore»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio ",
+      "detectada": "2026-11-09T18:23:15Z",
+      "ultima_vez_vista": "2026-11-09T18:23:15Z"
+    },
+    "7793d0f545aa5e76": {
+      "id": "7793d0f545aa5e76",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Data Scientist, AI/ML",
+      "empresa": "Gremlin",
+      "url": "https://jobicy.com/jobs/152746-data-scientist-ai-ml",
+      "ubicacion": "USA",
+      "salario": null,
+      "fecha_publicada": "2026-11-09T03:04:29+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Data Scientist, AI/ML Job Description: Today’s complex, fast-paced systems have become a minefield of reliability risks, any of which could cause an outage that costs millions and destroys customer confidence. That’s why high-availability teams use Gremlin to find and fix reliability risks before they become incidents.",
+      "detectada": "2026-11-09T18:23:15Z",
+      "ultima_vez_vista": "2026-11-09T18:23:15Z"
     }
   },
-  "actualizado": "2026-11-09T04:54:58Z"
+  "actualizado": "2026-11-09T18:23:15Z"
 }
