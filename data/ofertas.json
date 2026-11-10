@@ -98,7 +98,7 @@
       "banderas": [],
       "resumen": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio ",
       "detectada": "2026-11-09T18:23:15Z",
-      "ultima_vez_vista": "2026-11-10T02:33:51Z"
+      "ultima_vez_vista": "2026-11-10T12:10:37Z"
     },
     "7793d0f545aa5e76": {
       "id": "7793d0f545aa5e76",
@@ -118,8 +118,28 @@
       "banderas": [],
       "resumen": "Data Scientist, AI/ML Job Description: Today’s complex, fast-paced systems have become a minefield of reliability risks, any of which could cause an outage that costs millions and destroys customer confidence. That’s why high-availability teams use Gremlin to find and fix reliability risks before they become incidents.",
       "detectada": "2026-11-09T18:23:15Z",
-      "ultima_vez_vista": "2026-11-10T02:33:51Z"
+      "ultima_vez_vista": "2026-11-10T12:10:37Z"
+    },
+    "bb5791b228acfa53": {
+      "id": "bb5791b228acfa53",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Machine Learning Engineer, Voice Conversion",
+      "empresa": "Cantina Labs",
+      "url": "https://jobicy.com/jobs/160999-machine-learning-engineer-voice-conversion",
+      "ubicacion": "Europe,  USA",
+      "salario": null,
+      "fecha_publicada": "2026-11-10T08:57:34+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Europe,  USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "About Cantina: Cantina is a new social platform founded by Sean Parker with the most advanced AI character creator. Our bots are lifelike, social creatures that can interact wherever people are online—across voice, video, and text. Create yourself, imagine someone new, or choose from thousands of characters to share in",
+      "detectada": "2026-11-10T12:10:37Z",
+      "ultima_vez_vista": "2026-11-10T12:10:37Z"
     }
   },
-  "actualizado": "2026-11-10T02:33:51Z"
+  "actualizado": "2026-11-10T12:10:37Z"
 }
