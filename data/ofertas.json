@@ -1,25 +1,5 @@
 {
   "ofertas": {
-    "ac76db1aa79304a1": {
-      "id": "ac76db1aa79304a1",
-      "fuente": "getonbrd",
-      "fuente_nombre": "Get on Board",
-      "titulo": "Digital Media Analyst",
-      "empresa": "7101",
-      "url": "https://www.getonbrd.com/jobs/digital-media-analyst-interfell-remote",
-      "ubicacion": "Remoto",
-      "salario": "USD 1700 – 2300 /mes",
-      "fecha_publicada": "2026-11-02T23:25:27Z",
-      "seniority": "Middle / Semi Senior",
-      "idioma": "en",
-      "aviso_ingles_hablado": false,
-      "aviso_geografico": null,
-      "confianza": 100,
-      "banderas": [],
-      "resumen": "2+ years of experience as a Media Analyst, Marketing Analyst, or similar role, ideally in an agency environment. Advanced proficiency in Microsoft Excel and Google Sheets (pivot tables and lookups are second nature). Experience building and maintaining dashboards in data visualization tools (Agency Analytics, Looker St",
-      "detectada": "2026-11-03T11:39:32Z",
-      "ultima_vez_vista": "2026-11-09T18:23:15Z"
-    },
     "7e2795c1c72f7809": {
       "id": "7e2795c1c72f7809",
       "fuente": "jobicy",
@@ -38,7 +18,7 @@
       "banderas": [],
       "resumen": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio ",
       "detectada": "2026-11-09T18:23:15Z",
-      "ultima_vez_vista": "2026-11-12T16:37:14Z"
+      "ultima_vez_vista": "2026-11-13T00:54:58Z"
     },
     "7793d0f545aa5e76": {
       "id": "7793d0f545aa5e76",
@@ -58,7 +38,7 @@
       "banderas": [],
       "resumen": "Data Scientist, AI/ML Job Description: Today’s complex, fast-paced systems have become a minefield of reliability risks, any of which could cause an outage that costs millions and destroys customer confidence. That’s why high-availability teams use Gremlin to find and fix reliability risks before they become incidents.",
       "detectada": "2026-11-09T18:23:15Z",
-      "ultima_vez_vista": "2026-11-12T16:37:14Z"
+      "ultima_vez_vista": "2026-11-13T00:54:58Z"
     },
     "bb5791b228acfa53": {
       "id": "bb5791b228acfa53",
@@ -78,7 +58,7 @@
       "banderas": [],
       "resumen": "About Cantina: Cantina is a new social platform founded by Sean Parker with the most advanced AI character creator. Our bots are lifelike, social creatures that can interact wherever people are online—across voice, video, and text. Create yourself, imagine someone new, or choose from thousands of characters to share in",
       "detectada": "2026-11-10T12:10:37Z",
-      "ultima_vez_vista": "2026-11-12T16:37:14Z"
+      "ultima_vez_vista": "2026-11-13T00:54:58Z"
     },
     "e235fdc0fbe94089": {
       "id": "e235fdc0fbe94089",
@@ -98,8 +78,8 @@
       "banderas": [],
       "resumen": "Company Overview Deepgram is bringing the world’s most natural interface, voice, to the technology we use every day. Our speech models and real-time infrastructure power AI systems that keep up with the way people actually speak. More than 5,000 organizations run conversational voice AI on Deepgram in production, inclu",
       "detectada": "2026-11-11T22:29:45Z",
-      "ultima_vez_vista": "2026-11-12T16:37:14Z"
+      "ultima_vez_vista": "2026-11-13T00:54:58Z"
     }
   },
-  "actualizado": "2026-11-12T16:37:14Z"
+  "actualizado": "2026-11-13T00:54:58Z"
 }
