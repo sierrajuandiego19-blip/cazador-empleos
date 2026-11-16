@@ -58,7 +58,7 @@
       "banderas": [],
       "resumen": "Company Overview Deepgram is bringing the world’s most natural interface, voice, to the technology we use every day. Our speech models and real-time infrastructure power AI systems that keep up with the way people actually speak. More than 5,000 organizations run conversational voice AI on Deepgram in production, inclu",
       "detectada": "2026-11-11T22:29:45Z",
-      "ultima_vez_vista": "2026-11-16T05:02:53Z"
+      "ultima_vez_vista": "2026-11-16T17:59:14Z"
     },
     "130433e78507def6": {
       "id": "130433e78507def6",
@@ -78,8 +78,28 @@
       "banderas": [],
       "resumen": "About Carrot: Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions ",
       "detectada": "2026-11-15T20:50:46Z",
-      "ultima_vez_vista": "2026-11-16T05:02:53Z"
+      "ultima_vez_vista": "2026-11-16T17:59:14Z"
+    },
+    "dd92d3ee2211322e": {
+      "id": "dd92d3ee2211322e",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Analytics Engineer",
+      "empresa": "Pleo",
+      "url": "https://jobicy.com/jobs/155537-analytics-engineer-4",
+      "ubicacion": "Denmark,  Portugal,  Spain,  UK",
+      "salario": null,
+      "fecha_publicada": "2026-11-16T03:30:17+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Denmark,  Portugal,  Spain,  UK»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision",
+      "detectada": "2026-11-16T17:59:14Z",
+      "ultima_vez_vista": "2026-11-16T17:59:14Z"
     }
   },
-  "actualizado": "2026-11-16T05:02:53Z"
+  "actualizado": "2026-11-16T17:59:14Z"
 }
