@@ -2435,6 +2435,27 @@
       "detectada": "2026-11-09T18:23:15Z",
       "ultima_vez_vista": "2026-11-13T00:54:58Z",
       "archivada": "2026-11-16T05:02:53Z"
+    },
+    {
+      "id": "7e2795c1c72f7809",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "LLM Applied Data Scientist (RAG/ NLP)",
+      "empresa": "Binance",
+      "url": "https://jobicy.com/jobs/160069-llm-applied-data-scientist-rag-nlp",
+      "ubicacion": "Hong Kong,  Singapore",
+      "salario": null,
+      "fecha_publicada": "2026-11-09T12:44:26+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Hong Kong,  Singapore»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio ",
+      "detectada": "2026-11-09T18:23:15Z",
+      "ultima_vez_vista": "2026-11-14T00:41:26Z",
+      "archivada": "2026-11-17T02:47:33Z"
     }
   ]
 }
