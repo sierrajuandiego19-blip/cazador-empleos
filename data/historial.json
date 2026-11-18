@@ -2456,6 +2456,27 @@
       "detectada": "2026-11-09T18:23:15Z",
       "ultima_vez_vista": "2026-11-14T00:41:26Z",
       "archivada": "2026-11-17T02:47:33Z"
+    },
+    {
+      "id": "bb5791b228acfa53",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Machine Learning Engineer, Voice Conversion",
+      "empresa": "Cantina Labs",
+      "url": "https://jobicy.com/jobs/160999-machine-learning-engineer-voice-conversion",
+      "ubicacion": "Europe,  USA",
+      "salario": null,
+      "fecha_publicada": "2026-11-10T08:57:34+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Europe,  USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "About Cantina: Cantina is a new social platform founded by Sean Parker with the most advanced AI character creator. Our bots are lifelike, social creatures that can interact wherever people are online—across voice, video, and text. Create yourself, imagine someone new, or choose from thousands of characters to share in",
+      "detectada": "2026-11-10T12:10:37Z",
+      "ultima_vez_vista": "2026-11-15T05:05:22Z",
+      "archivada": "2026-11-18T06:10:20Z"
     }
   ]
 }
