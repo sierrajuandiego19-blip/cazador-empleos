@@ -2477,6 +2477,27 @@
       "detectada": "2026-11-10T12:10:37Z",
       "ultima_vez_vista": "2026-11-15T05:05:22Z",
       "archivada": "2026-11-18T06:10:20Z"
+    },
+    {
+      "id": "e235fdc0fbe94089",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Marketing & GTM Data Analyst",
+      "empresa": "Deepgram",
+      "url": "https://jobicy.com/jobs/161415-marketing-gtm-data-analyst",
+      "ubicacion": "USA",
+      "salario": null,
+      "fecha_publicada": "2026-11-11T18:44:44+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Company Overview Deepgram is bringing the world’s most natural interface, voice, to the technology we use every day. Our speech models and real-time infrastructure power AI systems that keep up with the way people actually speak. More than 5,000 organizations run conversational voice AI on Deepgram in production, inclu",
+      "detectada": "2026-11-11T22:29:45Z",
+      "ultima_vez_vista": "2026-11-17T12:48:50Z",
+      "archivada": "2026-11-20T16:44:33Z"
     }
   ]
 }
