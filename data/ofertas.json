@@ -1,25 +1,5 @@
 {
   "ofertas": {
-    "130433e78507def6": {
-      "id": "130433e78507def6",
-      "fuente": "jobicy",
-      "fuente_nombre": "Jobicy",
-      "titulo": "Business Intelligence Analytics Engineer",
-      "empresa": "Carrot",
-      "url": "https://jobicy.com/jobs/162465-business-intelligence-analytics-engineer",
-      "ubicacion": "USA",
-      "salario": null,
-      "fecha_publicada": "2026-11-15T13:28:18+00:00Z",
-      "seniority": "No especificado",
-      "idioma": "en",
-      "aviso_ingles_hablado": false,
-      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
-      "confianza": 100,
-      "banderas": [],
-      "resumen": "About Carrot: Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot to support millions ",
-      "detectada": "2026-11-15T20:50:46Z",
-      "ultima_vez_vista": "2026-11-20T16:44:33Z"
-    },
     "dd92d3ee2211322e": {
       "id": "dd92d3ee2211322e",
       "fuente": "jobicy",
@@ -118,7 +98,7 @@
       "banderas": [],
       "resumen": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the inte",
       "detectada": "2026-11-19T22:54:58Z",
-      "ultima_vez_vista": "2026-11-23T06:01:29Z"
+      "ultima_vez_vista": "2026-11-23T19:53:30Z"
     },
     "8f5089c35657b70d": {
       "id": "8f5089c35657b70d",
@@ -138,7 +118,7 @@
       "banderas": [],
       "resumen": "About Valdera: At Valdera, we empower innovators to turn ideas into reality by transforming how manufacturers source materials. We make it effortless for companies to find the best materials and suppliers for their needs, enabling them to build high-quality products at scale and deliver them to millions of consumers wo",
       "detectada": "2026-11-19T22:54:58Z",
-      "ultima_vez_vista": "2026-11-23T06:01:29Z"
+      "ultima_vez_vista": "2026-11-23T19:53:30Z"
     },
     "1569dc97343a6614": {
       "id": "1569dc97343a6614",
@@ -158,7 +138,7 @@
       "banderas": [],
       "resumen": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily a",
       "detectada": "2026-11-20T16:44:33Z",
-      "ultima_vez_vista": "2026-11-23T06:01:29Z"
+      "ultima_vez_vista": "2026-11-23T19:53:30Z"
     },
     "532147d05bf9443b": {
       "id": "532147d05bf9443b",
@@ -198,8 +178,8 @@
       "banderas": [],
       "resumen": "Company Overview LevelUp is a specialist agency that provides outsourcing solutions to agencies, software vendors, and website owners. For over seven years, we have successfully collaborated with a variety of companies, providing valuable technical, operational, and back-office support. We have a large team of skilled ",
       "detectada": "2026-11-22T15:57:46Z",
-      "ultima_vez_vista": "2026-11-23T06:01:29Z"
+      "ultima_vez_vista": "2026-11-23T19:53:30Z"
     }
   },
-  "actualizado": "2026-11-23T06:01:29Z"
+  "actualizado": "2026-11-23T19:53:30Z"
 }
