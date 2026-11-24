@@ -1,25 +1,5 @@
 {
   "ofertas": {
-    "bac7374152dbe970": {
-      "id": "bac7374152dbe970",
-      "fuente": "jobicy",
-      "fuente_nombre": "Jobicy",
-      "titulo": "Applied AI Data Scientist (Brazil)",
-      "empresa": "AE Studio",
-      "url": "https://jobicy.com/jobs/162673-applied-ai-data-scientist-brazil",
-      "ubicacion": "Brazil",
-      "salario": null,
-      "fecha_publicada": "2026-11-16T15:45:11+00:00Z",
-      "seniority": "No especificado",
-      "idioma": "en",
-      "aviso_ingles_hablado": false,
-      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Brazil»",
-      "confianza": 100,
-      "banderas": [],
-      "resumen": "AE Studio builds products, platforms, and internal ventures that increase agency for all conscious beings. We combine world-class software engineering, AI expertise, and product design to ship ambitious projects that matter. ABOUT THE ROLE As a Data Scientist at AE Studio, you’ll work on a mix of client projects and in",
-      "detectada": "2026-11-17T02:47:33Z",
-      "ultima_vez_vista": "2026-11-21T12:10:07Z"
-    },
     "ae6f89ce6ac0f6ac": {
       "id": "ae6f89ce6ac0f6ac",
       "fuente": "jobicy",
@@ -39,26 +19,6 @@
       "resumen": "Thumbtack helps millions of people confidently care for their homes. Thumbtack is the one app you need to take care of and improve your home — from personalized guidance to AI tools and a best-in-class hiring experience. Every day in every county of the U.S., people turn to Thumbtack to complete urgent repairs, seasona",
       "detectada": "2026-11-17T12:48:50Z",
       "ultima_vez_vista": "2026-11-22T05:25:21Z"
-    },
-    "5d527ecbeb892c36": {
-      "id": "5d527ecbeb892c36",
-      "fuente": "jobicy",
-      "fuente_nombre": "Jobicy",
-      "titulo": "Data Scientist, Product Analytics",
-      "empresa": "Meta",
-      "url": "https://jobicy.com/jobs/150667-data-scientist-product-analytics",
-      "ubicacion": "USA",
-      "salario": null,
-      "fecha_publicada": "2026-11-17T02:45:19+00:00Z",
-      "seniority": "No especificado",
-      "idioma": "en",
-      "aviso_ingles_hablado": false,
-      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
-      "confianza": 100,
-      "banderas": [],
-      "resumen": "As a Data Scientist at Meta, you will shape the future of people-facing and business-facing products we build across our entire family of applications (Facebook, Instagram, Messenger, WhatsApp, Oculus). By applying your technical skills, analytical mindset, and product intuition to one of the richest data sets in the w",
-      "detectada": "2026-11-17T12:48:50Z",
-      "ultima_vez_vista": "2026-11-21T12:10:07Z"
     },
     "bed685715078e17d": {
       "id": "bed685715078e17d",
@@ -118,7 +78,7 @@
       "banderas": [],
       "resumen": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily a",
       "detectada": "2026-11-20T16:44:33Z",
-      "ultima_vez_vista": "2026-11-24T04:38:14Z"
+      "ultima_vez_vista": "2026-11-24T19:22:00Z"
     },
     "532147d05bf9443b": {
       "id": "532147d05bf9443b",
@@ -158,8 +118,8 @@
       "banderas": [],
       "resumen": "Company Overview LevelUp is a specialist agency that provides outsourcing solutions to agencies, software vendors, and website owners. For over seven years, we have successfully collaborated with a variety of companies, providing valuable technical, operational, and back-office support. We have a large team of skilled ",
       "detectada": "2026-11-22T15:57:46Z",
-      "ultima_vez_vista": "2026-11-24T04:38:14Z"
+      "ultima_vez_vista": "2026-11-24T19:22:00Z"
     }
   },
-  "actualizado": "2026-11-24T04:38:14Z"
+  "actualizado": "2026-11-24T19:22:00Z"
 }
