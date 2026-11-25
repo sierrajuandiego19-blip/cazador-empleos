@@ -1,25 +1,5 @@
 {
   "ofertas": {
-    "ae6f89ce6ac0f6ac": {
-      "id": "ae6f89ce6ac0f6ac",
-      "fuente": "jobicy",
-      "fuente_nombre": "Jobicy",
-      "titulo": "Data Scientist II, Marketing",
-      "empresa": "Thumbtack",
-      "url": "https://jobicy.com/jobs/162751-data-scientist-ii-marketing",
-      "ubicacion": "USA",
-      "salario": null,
-      "fecha_publicada": "2026-11-17T06:52:04+00:00Z",
-      "seniority": "No especificado",
-      "idioma": "en",
-      "aviso_ingles_hablado": false,
-      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
-      "confianza": 100,
-      "banderas": [],
-      "resumen": "Thumbtack helps millions of people confidently care for their homes. Thumbtack is the one app you need to take care of and improve your home — from personalized guidance to AI tools and a best-in-class hiring experience. Every day in every county of the U.S., people turn to Thumbtack to complete urgent repairs, seasona",
-      "detectada": "2026-11-17T12:48:50Z",
-      "ultima_vez_vista": "2026-11-22T05:25:21Z"
-    },
     "bed685715078e17d": {
       "id": "bed685715078e17d",
       "fuente": "jobicy",
@@ -118,8 +98,48 @@
       "banderas": [],
       "resumen": "Company Overview LevelUp is a specialist agency that provides outsourcing solutions to agencies, software vendors, and website owners. For over seven years, we have successfully collaborated with a variety of companies, providing valuable technical, operational, and back-office support. We have a large team of skilled ",
       "detectada": "2026-11-22T15:57:46Z",
-      "ultima_vez_vista": "2026-11-25T03:23:03Z"
+      "ultima_vez_vista": "2026-11-25T13:55:49Z"
+    },
+    "fd228401ffb2ef64": {
+      "id": "fd228401ffb2ef64",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Machine Learning Engineer, Ranking & Retrieval",
+      "empresa": "ClickUp",
+      "url": "https://jobicy.com/jobs/156887-machine-learning-engineer-ranking-retrieval",
+      "ubicacion": "USA",
+      "salario": null,
+      "fecha_publicada": "2026-11-25T03:20:42+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring proc",
+      "detectada": "2026-11-25T13:55:49Z",
+      "ultima_vez_vista": "2026-11-25T13:55:49Z"
+    },
+    "ce4eb8b2f9cee178": {
+      "id": "ce4eb8b2f9cee178",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Data Analyst, Clinical Data Effectiveness",
+      "empresa": "Clover Health",
+      "url": "https://jobicy.com/jobs/150923-data-analyst-clinical-data-effectiveness",
+      "ubicacion": "USA",
+      "salario": null,
+      "fecha_publicada": "2026-11-25T03:15:56+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Counterpart Health is an AI‑powered physician enablement platform that delivers clinical insights to providers at the point of care. Our flagship product, Counterpart Assistant, is embedded into clinicians’ workflows and integrates with EHR systems, helping care teams drive value-based outcomes, close care gaps, and pr",
+      "detectada": "2026-11-25T13:55:49Z",
+      "ultima_vez_vista": "2026-11-25T13:55:49Z"
     }
   },
-  "actualizado": "2026-11-25T03:23:03Z"
+  "actualizado": "2026-11-25T13:55:49Z"
 }
