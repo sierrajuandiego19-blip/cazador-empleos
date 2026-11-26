@@ -2624,6 +2624,27 @@
       "detectada": "2026-11-17T12:48:50Z",
       "ultima_vez_vista": "2026-11-22T05:25:21Z",
       "archivada": "2026-11-25T13:55:49Z"
+    },
+    {
+      "id": "532147d05bf9443b",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Machine Learning Engineer",
+      "empresa": "Reddit",
+      "url": "https://jobicy.com/jobs/163552-machine-learning-engineer-9",
+      "ubicacion": "Canada",
+      "salario": null,
+      "fecha_publicada": "2026-11-20T14:19:35+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Canada»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily a",
+      "detectada": "2026-11-21T01:06:33Z",
+      "ultima_vez_vista": "2026-11-22T21:39:18Z",
+      "archivada": "2026-11-26T00:00:11Z"
     }
   ]
 }

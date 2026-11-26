@@ -60,26 +60,6 @@
       "detectada": "2026-11-20T16:44:33Z",
       "ultima_vez_vista": "2026-11-25T03:23:03Z"
     },
-    "532147d05bf9443b": {
-      "id": "532147d05bf9443b",
-      "fuente": "jobicy",
-      "fuente_nombre": "Jobicy",
-      "titulo": "Machine Learning Engineer",
-      "empresa": "Reddit",
-      "url": "https://jobicy.com/jobs/163552-machine-learning-engineer-9",
-      "ubicacion": "Canada",
-      "salario": null,
-      "fecha_publicada": "2026-11-20T14:19:35+00:00Z",
-      "seniority": "No especificado",
-      "idioma": "en",
-      "aviso_ingles_hablado": false,
-      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «Canada»",
-      "confianza": 100,
-      "banderas": [],
-      "resumen": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily a",
-      "detectada": "2026-11-21T01:06:33Z",
-      "ultima_vez_vista": "2026-11-22T21:39:18Z"
-    },
     "6413ca444ce792a4": {
       "id": "6413ca444ce792a4",
       "fuente": "jobicy",
@@ -98,7 +78,7 @@
       "banderas": [],
       "resumen": "Company Overview LevelUp is a specialist agency that provides outsourcing solutions to agencies, software vendors, and website owners. For over seven years, we have successfully collaborated with a variety of companies, providing valuable technical, operational, and back-office support. We have a large team of skilled ",
       "detectada": "2026-11-22T15:57:46Z",
-      "ultima_vez_vista": "2026-11-25T13:55:49Z"
+      "ultima_vez_vista": "2026-11-26T00:00:11Z"
     },
     "fd228401ffb2ef64": {
       "id": "fd228401ffb2ef64",
@@ -118,7 +98,7 @@
       "banderas": [],
       "resumen": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring proc",
       "detectada": "2026-11-25T13:55:49Z",
-      "ultima_vez_vista": "2026-11-25T13:55:49Z"
+      "ultima_vez_vista": "2026-11-26T00:00:11Z"
     },
     "ce4eb8b2f9cee178": {
       "id": "ce4eb8b2f9cee178",
@@ -138,8 +118,8 @@
       "banderas": [],
       "resumen": "Counterpart Health is an AI‑powered physician enablement platform that delivers clinical insights to providers at the point of care. Our flagship product, Counterpart Assistant, is embedded into clinicians’ workflows and integrates with EHR systems, helping care teams drive value-based outcomes, close care gaps, and pr",
       "detectada": "2026-11-25T13:55:49Z",
-      "ultima_vez_vista": "2026-11-25T13:55:49Z"
+      "ultima_vez_vista": "2026-11-26T00:00:11Z"
     }
   },
-  "actualizado": "2026-11-25T13:55:49Z"
+  "actualizado": "2026-11-26T00:00:11Z"
 }
