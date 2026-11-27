@@ -2645,6 +2645,48 @@
       "detectada": "2026-11-21T01:06:33Z",
       "ultima_vez_vista": "2026-11-22T21:39:18Z",
       "archivada": "2026-11-26T00:00:11Z"
+    },
+    {
+      "id": "bed685715078e17d",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "AMER Data Analyst - Sales Strategy and Operations",
+      "empresa": "Stripe",
+      "url": "https://jobicy.com/jobs/163348-amer-data-analyst-sales-strategy-and-operations",
+      "ubicacion": "USA",
+      "salario": null,
+      "fecha_publicada": "2026-11-19T15:33:52+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the inte",
+      "detectada": "2026-11-19T22:54:58Z",
+      "ultima_vez_vista": "2026-11-24T04:38:14Z",
+      "archivada": "2026-11-27T13:30:44Z"
+    },
+    {
+      "id": "8f5089c35657b70d",
+      "fuente": "jobicy",
+      "fuente_nombre": "Jobicy",
+      "titulo": "Chemical Data Scientist",
+      "empresa": "Valdera",
+      "url": "https://jobicy.com/jobs/163333-chemical-data-scientist",
+      "ubicacion": "USA",
+      "salario": null,
+      "fecha_publicada": "2026-11-19T13:08:01+00:00Z",
+      "seniority": "No especificado",
+      "idioma": "en",
+      "aviso_ingles_hablado": false,
+      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
+      "confianza": 100,
+      "banderas": [],
+      "resumen": "About Valdera: At Valdera, we empower innovators to turn ideas into reality by transforming how manufacturers source materials. We make it effortless for companies to find the best materials and suppliers for their needs, enabling them to build high-quality products at scale and deliver them to millions of consumers wo",
+      "detectada": "2026-11-19T22:54:58Z",
+      "ultima_vez_vista": "2026-11-24T04:38:14Z",
+      "archivada": "2026-11-27T13:30:44Z"
     }
   ]
 }
