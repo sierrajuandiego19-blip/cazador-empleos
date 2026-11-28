@@ -1,25 +1,5 @@
 {
   "ofertas": {
-    "1569dc97343a6614": {
-      "id": "1569dc97343a6614",
-      "fuente": "jobicy",
-      "fuente_nombre": "Jobicy",
-      "titulo": "Analytics Engineer",
-      "empresa": "Reddit",
-      "url": "https://jobicy.com/jobs/156010-analytics-engineer-5",
-      "ubicacion": "USA",
-      "salario": null,
-      "fecha_publicada": "2026-11-20T05:45:16+00:00Z",
-      "seniority": "No especificado",
-      "idioma": "en",
-      "aviso_ingles_hablado": false,
-      "aviso_geografico": "Confirma elegibilidad geográfica: la fuente indica «USA»",
-      "confianza": 100,
-      "banderas": [],
-      "resumen": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily a",
-      "detectada": "2026-11-20T16:44:33Z",
-      "ultima_vez_vista": "2026-11-25T03:23:03Z"
-    },
     "6413ca444ce792a4": {
       "id": "6413ca444ce792a4",
       "fuente": "jobicy",
@@ -58,7 +38,7 @@
       "banderas": [],
       "resumen": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring proc",
       "detectada": "2026-11-25T13:55:49Z",
-      "ultima_vez_vista": "2026-11-27T23:54:51Z"
+      "ultima_vez_vista": "2026-11-28T06:34:41Z"
     },
     "ce4eb8b2f9cee178": {
       "id": "ce4eb8b2f9cee178",
@@ -78,7 +58,7 @@
       "banderas": [],
       "resumen": "Counterpart Health is an AI‑powered physician enablement platform that delivers clinical insights to providers at the point of care. Our flagship product, Counterpart Assistant, is embedded into clinicians’ workflows and integrates with EHR systems, helping care teams drive value-based outcomes, close care gaps, and pr",
       "detectada": "2026-11-25T13:55:49Z",
-      "ultima_vez_vista": "2026-11-27T23:54:51Z"
+      "ultima_vez_vista": "2026-11-28T06:34:41Z"
     },
     "d919542619a85381": {
       "id": "d919542619a85381",
@@ -98,8 +78,8 @@
       "banderas": [],
       "resumen": "Lo que esperamos de ti: Formación: Titulado/a en Ingeniería Comercial, Ingeniería Civil Industrial, Ingeniería en Información y Control de Gestión (IICG) o carrera afín. Experiencia: Entre 2 y 5 años en CX Analytics, Growth, Marketing Analytics, Business Intelligence, CRM o Eficiencia Operacional. Herramientas técnicas",
       "detectada": "2026-11-27T23:54:51Z",
-      "ultima_vez_vista": "2026-11-27T23:54:51Z"
+      "ultima_vez_vista": "2026-11-28T06:34:41Z"
     }
   },
-  "actualizado": "2026-11-27T23:54:51Z"
+  "actualizado": "2026-11-28T06:34:41Z"
 }
